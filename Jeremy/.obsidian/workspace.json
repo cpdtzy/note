@@ -1,0 +1,162 @@
+{
+  "main": {
+    "id": "d74f63f90072a5e5",
+    "type": "split",
+    "children": [
+      {
+        "id": "77175d98d054c6f7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cb1a6384bcce61e1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Front-end/ESMA/Generator 生成器.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b154af1888b23902",
+    "type": "split",
+    "children": [
+      {
+        "id": "aff29cf5f1335010",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "674bb1de0be7eec6",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "99770d49d8db8518",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ef02392933ddc096",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "41a96ecdd3040d6c",
+    "type": "split",
+    "children": [
+      {
+        "id": "ca734cdc68ada198",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "10a34302acb00d95",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Front-end/ESMA/Generator 生成器.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7fefc10bfff8c44b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Front-end/ESMA/Generator 生成器.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "09411fa923842bf8",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "bd19b84ae7d29e64",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Front-end/ESMA/Generator 生成器.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "cb1a6384bcce61e1",
+  "lastOpenFiles": [
+    "Front-end/前后端通信协议.md",
+    "Front-end/ESMA/Generator 生成器.md",
+    "未命名.md",
+    "Resolved/Webstorm/Cannot Uninstall old IDE after installing a new one. Uninstall hasn't detected folder of ....md",
+    "Front-end/ESMA",
+    "未命名",
+    "Front-end",
+    "Resolved/Webstorm",
+    "Resolved",
+    "Test.md"
+  ]
+}
