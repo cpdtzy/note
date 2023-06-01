@@ -11,8 +11,12 @@
             "id": "0300a3cf4bd179d9",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "osc/one 登录测试.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,12 +85,13 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "osc/one 登录测试.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
-                "backlinkCollapsed": false,
+                "backlinkCollapsed": true,
                 "unlinkedCollapsed": true
               }
             }
@@ -97,7 +102,8 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "linksCollapsed": false,
+                "file": "osc/one 登录测试.md",
+                "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
             }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "osc/one 登录测试.md"
+              }
             }
           }
         ]
@@ -138,7 +146,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0300a3cf4bd179d9",
+  "active": "80ee5e88103990b2",
   "lastOpenFiles": [
     "Front-end/ESMA/Generator 生成器.md",
     "Front-end/前后端通信协议.md",
