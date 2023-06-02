@@ -11,8 +11,12 @@
             "id": "13922cefd30a93dd",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Front-end/前后端通信协议.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Front-end/前后端通信协议.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Front-end/前后端通信协议.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Front-end/前后端通信协议.md"
+              }
             }
           }
         ]
@@ -143,13 +151,13 @@
     "Front-end/前后端通信协议.md",
     "小记.md",
     "osc/one 登录测试.md",
-    "Front-end/ESMA/Generator 生成器.md",
+    "Front-end/ECMA/Generator 生成器.md",
     "Resolved/Webstorm/Cannot Uninstall old IDE after installing a new one. Uninstall hasn't detected folder of ....md",
     "Untitled.md",
     "Resolved/Webstorm",
     "Resolved",
     "osc",
-    "Front-end/ESMA",
+    "Front-end/ECMA",
     "Front-end"
   ]
 }
