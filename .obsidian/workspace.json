@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Front-end/前后端通信协议.md",
+                "file": "NPM/弃用插件包.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Front-end/前后端通信协议.md",
+                "file": "NPM/弃用插件包.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Front-end/前后端通信协议.md",
+                "file": "NPM/弃用插件包.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Front-end/前后端通信协议.md"
+                "file": "NPM/弃用插件包.md"
               }
             }
           }
@@ -148,9 +148,12 @@
   },
   "active": "13922cefd30a93dd",
   "lastOpenFiles": [
+    "NPM/发布插件库.md",
+    "NPM/弃用插件包.md",
+    "osc/one 登录测试.md",
+    "NPM",
     "Front-end/前后端通信协议.md",
     "小记.md",
-    "osc/one 登录测试.md",
     "Front-end/ECMA/Generator 生成器.md",
     "Resolved/Webstorm/Cannot Uninstall old IDE after installing a new one. Uninstall hasn't detected folder of ....md",
     "Untitled.md",
