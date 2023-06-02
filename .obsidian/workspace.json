@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "84e27c5f1c0bee01",
+        "id": "c7c40d9c79c2943d",
         "type": "tabs",
         "children": [
           {
-            "id": "0300a3cf4bd179d9",
+            "id": "13922cefd30a93dd",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "osc/one 登录测试.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -69,7 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "a3412fa6f2694525",
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "osc/one 登录测试.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "osc/one 登录测试.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "osc/one 登录测试.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -146,15 +138,16 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "80ee5e88103990b2",
+  "active": "13922cefd30a93dd",
   "lastOpenFiles": [
-    "Front-end/ESMA/Generator 生成器.md",
     "Front-end/前后端通信协议.md",
+    "小记.md",
+    "osc/one 登录测试.md",
+    "Front-end/ESMA/Generator 生成器.md",
     "Resolved/Webstorm/Cannot Uninstall old IDE after installing a new one. Uninstall hasn't detected folder of ....md",
     "Untitled.md",
     "Resolved/Webstorm",
     "Resolved",
-    "osc/one 登录测试.md",
     "osc",
     "Front-end/ESMA",
     "Front-end"
