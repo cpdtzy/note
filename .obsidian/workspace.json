@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "c7c40d9c79c2943d",
+        "id": "64d9548e41eeebce",
         "type": "tabs",
         "children": [
           {
-            "id": "13922cefd30a93dd",
+            "id": "ec4fdc2ab03d5f91",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Front-end/ECMA/window.postMessage.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Front-end/ECMA/window.postMessage.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Front-end/ECMA/window.postMessage.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Front-end/ECMA/window.postMessage.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -146,12 +138,12 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "13922cefd30a93dd",
+  "active": "ec4fdc2ab03d5f91",
   "lastOpenFiles": [
-    "gitignore",
-    "新建 Text Document.txt",
     "Front-end/ECMA/es6 字符串模板.md",
     "Front-end/ECMA/window.postMessage.md",
+    "gitignore",
+    "新建 Text Document.txt",
     "Front-end/ECMA/简短的函数(箭头函数).md",
     "NPM/弃用插件包.md",
     "NPM/发布插件库.md",

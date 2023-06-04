@@ -1,1 +1,5 @@
-[]
+[
+  "obsidian-sample-plugin",
+  "obsidian-auto-sync-git",
+  "hot-reload"
+]
