@@ -11,8 +11,12 @@
             "id": "ec4fdc2ab03d5f91",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Obsidian/Development Plugin.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Obsidian/Development Plugin.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Obsidian/Development Plugin.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Obsidian/Development Plugin.md"
+              }
             }
           }
         ]
@@ -140,6 +148,8 @@
   },
   "active": "ec4fdc2ab03d5f91",
   "lastOpenFiles": [
+    "Obsidian/Development Plugin.md",
+    "Obsidian",
     "Front-end/ECMA/es6 字符串模板.md",
     "Front-end/ECMA/window.postMessage.md",
     "gitignore",
@@ -147,7 +157,7 @@
     "Front-end/ECMA/简短的函数(箭头函数).md",
     "NPM/弃用插件包.md",
     "NPM/发布插件库.md",
-    "osc/one 登录测试.md",
+    "OSC/one 登录测试.md",
     "NPM",
     "Front-end/前后端通信协议.md",
     "小记.md",
@@ -156,7 +166,7 @@
     "Untitled.md",
     "Resolved/Webstorm",
     "Resolved",
-    "osc",
+    "OSC",
     "Front-end/ECMA",
     "Front-end"
   ]
