@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian/Development Plugin.md",
+                "file": "OSC/nbcb-ui 重装情况.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Obsidian/Development Plugin.md",
+                "file": "OSC/nbcb-ui 重装情况.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Obsidian/Development Plugin.md",
+                "file": "OSC/nbcb-ui 重装情况.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Obsidian/Development Plugin.md"
+                "file": "OSC/nbcb-ui 重装情况.md"
               }
             }
           }
@@ -149,6 +149,7 @@
   "active": "ec4fdc2ab03d5f91",
   "lastOpenFiles": [
     "Obsidian/Development Plugin.md",
+    "OSC/nbcb-ui 重装情况.md",
     "Obsidian",
     "Front-end/ECMA/es6 字符串模板.md",
     "Front-end/ECMA/window.postMessage.md",
