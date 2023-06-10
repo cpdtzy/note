@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "64d9548e41eeebce",
+        "id": "84e27c5f1c0bee01",
         "type": "tabs",
         "children": [
           {
-            "id": "ec4fdc2ab03d5f91",
+            "id": "0300a3cf4bd179d9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OSC/nbcb-ui 重装情况.md",
+                "file": "Front-end/ECMA/window.postMessage.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 300
   },
   "right": {
     "id": "a3412fa6f2694525",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "OSC/nbcb-ui 重装情况.md",
+                "file": "Front-end/ECMA/window.postMessage.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "OSC/nbcb-ui 重装情况.md",
+                "file": "Front-end/ECMA/window.postMessage.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "OSC/nbcb-ui 重装情况.md"
+                "file": "Front-end/ECMA/window.postMessage.md"
               }
             }
           }
@@ -138,37 +138,37 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:打开快速切换": false,
-      "graph:查看关系图谱": false,
-      "canvas:新建白板": false,
-      "daily-notes:打开/创建今天的日记": false,
-      "templates:插入模板": false,
-      "command-palette:打开命令面板": false
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
     }
   },
-  "active": "ec4fdc2ab03d5f91",
+  "active": "0300a3cf4bd179d9",
   "lastOpenFiles": [
-    "Obsidian/Development Plugin.md",
-    "OSC/nbcb-ui 重装情况.md",
-    "Obsidian",
-    "Front-end/ECMA/es6 字符串模板.md",
+    "osc/one 登录测试.md",
+    "osc/nbcb-ui 重装情况.md",
     "Front-end/ECMA/window.postMessage.md",
-    "gitignore",
-    "新建 Text Document.txt",
-    "Front-end/ECMA/简短的函数(箭头函数).md",
+    "Obsidian/Development Plugin.md",
+    "Obsidian",
+    "小记.md",
+    "Resolved/Webstorm/Cannot Uninstall old IDE after installing a new one. Uninstall hasn't detected folder of ....md",
     "NPM/弃用插件包.md",
     "NPM/发布插件库.md",
-    "OSC/one 登录测试.md",
     "NPM",
-    "Front-end/前后端通信协议.md",
-    "小记.md",
+    "Front-end/ECMA/简短的函数(箭头函数).md",
     "Front-end/ECMA/Generator 生成器.md",
-    "Resolved/Webstorm/Cannot Uninstall old IDE after installing a new one. Uninstall hasn't detected folder of ....md",
+    "Front-end/ECMA/es6 字符串模板.md",
+    "Front-end/ECMA",
+    "Front-end/ESMA/Generator 生成器.md",
+    "Front-end/前后端通信协议.md",
     "Untitled.md",
     "Resolved/Webstorm",
     "Resolved",
-    "OSC",
-    "Front-end/ECMA",
+    "osc",
+    "Front-end/ESMA",
     "Front-end"
   ]
 }
