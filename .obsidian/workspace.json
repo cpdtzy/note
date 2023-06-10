@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Front-end/ECMA/window.postMessage.md",
+                "file": "NPM/plugins/prompt.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Front-end/ECMA/window.postMessage.md",
+                "file": "NPM/plugins/prompt.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Front-end/ECMA/window.postMessage.md",
+                "file": "NPM/plugins/prompt.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Front-end/ECMA/window.postMessage.md"
+                "file": "NPM/plugins/prompt.md"
               }
             }
           }
@@ -148,24 +148,19 @@
   },
   "active": "0300a3cf4bd179d9",
   "lastOpenFiles": [
-    "osc/one 登录测试.md",
-<<<<<<< Updated upstream
-    "osc/nbcb-ui 重装情况.md",
     "Front-end/ECMA/window.postMessage.md",
+    "NPM/plugins/prompt.md",
+    "NPM/plugins",
+    "osc/one 登录测试.md",
+    "osc/nbcb-ui 重装情况.md",
     "Obsidian/Development Plugin.md",
     "Obsidian",
-=======
->>>>>>> Stashed changes
     "小记.md",
     "Resolved/Webstorm/Cannot Uninstall old IDE after installing a new one. Uninstall hasn't detected folder of ....md",
     "NPM/弃用插件包.md",
     "NPM/发布插件库.md",
     "NPM",
     "Front-end/ECMA/简短的函数(箭头函数).md",
-<<<<<<< Updated upstream
-=======
-    "Front-end/ECMA/window.postMessage.md",
->>>>>>> Stashed changes
     "Front-end/ECMA/Generator 生成器.md",
     "Front-end/ECMA/es6 字符串模板.md",
     "Front-end/ECMA",
