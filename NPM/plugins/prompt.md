@@ -1,5 +1,6 @@
 
-> nodejs plugin 可以在调用 node 运行 js 文件时，弹出内容，获取文件所需参数
+> node.js plugin 可以在调用 node 运行文件时，弹出内容，获取文件所需参数 [NPM](https://www.npmjs.com/package/prompt)
+
 
 ## install
 
