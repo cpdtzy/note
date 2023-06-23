@@ -48,6 +48,5 @@ $ node examples/simple-prompt.js
   Command-line input received:
     username: some-user
     email: some-user@some-place.org
-
 ```
 
