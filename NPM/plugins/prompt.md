@@ -6,6 +6,8 @@
 
 ```shell
 npm install prompt -D
+npm install prompt --save
+npm install prompt --save-dev
 ```
 
 ## method
