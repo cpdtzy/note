@@ -13,6 +13,7 @@ npm install prompt --save-dev
 ## 基础用法
 
 简单的使用 prompt 库。
+
   ```js
   var prompt = require('prompt');
 
@@ -63,6 +64,12 @@ prompt.get(['username', 'email'], function (err, result) {
   });
 ```
 
+*不使用回调函数，`prompt.get(schema)` 会返回 Promise，也可以用这个*
+
+```js
+const {username, email} = await prompt.get(['username', 'email']);
+```
+
 out
 
 ```shell
@@ -73,4 +80,3 @@ $ node examples/simple-prompt.js
     username: some-user
     email: some-user@some-place.org
 ```
-
