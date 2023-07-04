@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docker/指令.md",
+                "file": "docker/nginx.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docker/指令.md",
+                "file": "docker/nginx.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docker/指令.md",
+                "file": "docker/nginx.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docker/指令.md"
+                "file": "docker/nginx.md"
               }
             }
           }
@@ -146,10 +146,11 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "0300a3cf4bd179d9",
+  "active": "80ee5e88103990b2",
   "lastOpenFiles": [
-    "NPM/plugins/prompt.md",
     "docker/指令.md",
+    "docker/nginx.md",
+    "NPM/plugins/prompt.md",
     "docker",
     "NPM/plugins/express.md",
     "Front-end/ECMA/window.postMessage.md",
