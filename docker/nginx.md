@@ -24,3 +24,9 @@ exit container
 可以输入 exit 或按键 ctrl + c 退出 container 时，container 仍然在后台运行。
 
 docker ps 负责从 container 中 copy 文件出来，或者 copy 文件进去
+
+nginx -t
+查看 ngi
+
+#### docker cp
+
