@@ -4,8 +4,11 @@
 
 运行 images
 ```shell
-docker run 
+$ docker run [OPTIONS] IMAGE[:TAG|@DIGEST] [COMMAND] [ARG...]
+
+docker run -d -p 8080:80 nginx
 ```
+
 
 进入容器
 
@@ -19,3 +22,5 @@ docker exec -it [container] /bin/bash
 exit container
 
 可以输入 exit 或按键 ctrl + c 退出 container 时，container 仍然在后台运行。
+
+docker ps 负责从 container 中 copy 文件出来，或者 copy 文件进去
