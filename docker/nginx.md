@@ -36,3 +36,15 @@ nginx -t
 `/usr/share/nginx/html` 默认文件路径
 `/etc/nginx/` 配置文件
 
+#### 映射nginx目录
+
+将nginx容器的配置日志资源等目录映射到本地主机目录下，需要在启动容器时，使用到 `-v` 命令，如：
+
+```js
+docker run -d --name nginx \
+-p 8080:80 \
+-v /usr/nginx/html:/usr/share/nginx/html \
+-v /usr/nginx/log:/var/log/nginx \
+-v /usr/nginx/nginx.conf:/etc/nginx/nginx.conf \
+nginx
+```
