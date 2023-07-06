@@ -48,3 +48,5 @@ docker run -d --name nginx \
 -v /usr/nginx/nginx.conf:/etc/nginx/nginx.conf \
 nginx
 ```
+
+在用Docker配置Nginx时，有两个主要的配置文件可以使用： `/etc/nginx/nginx.conf`和`/etc/nginx/conf.d/default.conf`。
