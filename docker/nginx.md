@@ -26,7 +26,7 @@ exit container
 docker ps 负责从 container 中 copy 文件出来，或者 copy 文件进去
 
 nginx -t
-查看 ngi
+查看 nginx 配置文件路径，并且可以查看配置文件是否正确
 
 #### docker cp
 
