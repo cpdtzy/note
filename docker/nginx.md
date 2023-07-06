@@ -30,3 +30,9 @@ nginx -t
 
 #### docker cp
 
+
+#### 路径
+
+`/usr/share/nginx/html` 默认文件路径
+`/etc/nginx/` 配置文件
+
