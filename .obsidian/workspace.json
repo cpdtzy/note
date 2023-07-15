@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Front-end/ECMA/Generator 生成器.md",
+                "file": "docker/nginx.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Front-end/ECMA/Generator 生成器.md",
+                "file": "docker/nginx.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Front-end/ECMA/Generator 生成器.md",
+                "file": "docker/nginx.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Front-end/ECMA/Generator 生成器.md"
+                "file": "docker/nginx.md"
               }
             }
           }
@@ -148,11 +148,11 @@
   },
   "active": "0300a3cf4bd179d9",
   "lastOpenFiles": [
+    "Front-end/ECMA/Generator 生成器.md",
     "Front-end/ECMA/window.postMessage.md",
     "Front-end/ECMA/简短的函数(箭头函数).md",
     "TODO.md",
     "小记.md",
-    "Front-end/ECMA/Generator 生成器.md",
     "Front-end/ECMA/es6 字符串模板.md",
     "docker/nginx.md",
     "docker/指令.md",
