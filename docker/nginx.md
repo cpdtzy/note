@@ -1,40 +1,46 @@
-想要在服务器上使用 nginx 服务，服务器有个 docker 使用 docker 运行，image 去创建 container（容器）。
+想要在服务器上使用 nginx 服务，服务器有个 docker 使用 docker 运行，通过 image 去创建 container（容器）。
+我们可以通过 docker create 和 docker pull 来拉取 docker 对应的 nginx 镜像包，来安装我们需要的 nginx 的环境。
 
-1. `docker pull nginx:latest` 拉取 docker nginx 镜像包
+1. `docker pull nginx:latest` 拉取 ==docker nginx== 镜像包
+```
+REPOSITORY                TAG       IMAGE ID       CREATED         SIZE
+nginx                     latest    eb4a57159180   6 weeks ago     187MB
+```
 
-运行 images
+下载完成后通过 `docker ==images`== 显示以上信息
+
+2. 运行 ==images==
 ```shell
 $ docker run [OPTIONS] IMAGE[:TAG|@DIGEST] [COMMAND] [ARG...]
 
 docker run -d -p 8080:80 nginx
 ```
+会通过 ==nginx== 镜像创建一个 ==nginx== 的容器，对应的端口映射为 8080（8080的端口映射为 `container` 容器的端口 80）。
 
-
-进入容器
+3. 进入容器
 
 `docker attach` 可以进入容器终端，但退出时会导致，`container` 停止运行.
-使用 `docker exec` 并不会导致 `container` 停止运行
+使用 `docker exec` 并不会导致 `container` 停止运行。
 
 ```shell
 docker exec -it [container] /bin/bash
 ```
 
-exit container
+4. 退出容器使用 `exit` ==container==，或按键 ==ctrl + c== 退出 `container` 时，`container` 仍然在后台运行。
 
-可以输入 exit 或按键 ctrl + c 退出 container 时，container 仍然在后台运行。
+### 其余辅助指令 
 
-docker ps 负责从 container 中 copy 文件出来，或者 copy 文件进去
+1. `docker cp` 负责从 container 中 copy 文件出来，或者 copy 文件进去
+2. `nginx -t` 查看 nginx 配置文件路径，并且可以查看配置文件是否正确
+3. 路径 
+ - `/usr/share/nginx/html` 默认文件路径
+ - `/etc/nginx/` 配置文件
 
-nginx -t
-查看 nginx 配置文件路径，并且可以查看配置文件是否正确
-
-#### docker cp
-
+#### 1. docker cp
 
 #### 路径
 
-`/usr/share/nginx/html` 默认文件路径
-`/etc/nginx/` 配置文件
+
 
 #### 映射nginx目录
 
@@ -50,3 +56,9 @@ nginx
 ```
 
 在用Docker配置Nginx时，有两个主要的配置文件可以使用： `/etc/nginx/nginx.conf`和`/etc/nginx/conf.d/default.conf`。
+
+
+
+```shell
+docker commit [OPTIONS] CONTAINER [REPOSITORY[:TAG]]
+```
