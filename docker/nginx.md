@@ -38,9 +38,17 @@ docker exec -it [container] /bin/bash
 
 #### 1. docker cp
 
-#### 路径
+```shell
+docker cp /mnt/d/default.conf [container]:/etc/nginx/config.d
+```
+会把对应的 ==D盘== 中的文件 `default.conf` 上传至 `container` 对应的 `/etc/nginx/config.d` 文件夹下
 
+#### 2. nginx -t
+在 ==容器== 内部，通过指令 `nginx -t` 会测试你的 ==nginx== 配置文件是否配置正确
 
+```shell
+
+```
 
 #### 映射nginx目录
 
