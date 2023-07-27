@@ -56,7 +56,7 @@ nginx: configuration file /etc/nginx/nginx.conf test is successful
 
 将nginx容器的配置日志资源等目录映射到本地主机目录下，需要在启动容器时，使用到 `-v` 命令，如：
 
-```js
+```shell
 docker run -d --name nginx \
 -p 8080:80 \
 -v /usr/nginx/html:/usr/share/nginx/html \

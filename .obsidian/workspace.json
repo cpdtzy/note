@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "84e27c5f1c0bee01",
+        "id": "422a960a702a0fe9",
         "type": "tabs",
         "children": [
           {
-            "id": "0300a3cf4bd179d9",
+            "id": "397c674e347736f2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docker/docker nginx.md",
+                "file": "docker/指令.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docker/docker nginx.md",
+                "file": "docker/指令.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docker/docker nginx.md",
+                "file": "docker/指令.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docker/docker nginx.md"
+                "file": "docker/指令.md"
               }
             }
           }
@@ -146,16 +146,16 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "0300a3cf4bd179d9",
+  "active": "397c674e347736f2",
   "lastOpenFiles": [
     "docker/指令.md",
     "docker/docker nginx.md",
-    "Obsidian/Development Plugin.md",
-    "小记.md",
-    "Front-end/ECMA/Generator 生成器.md",
-    "Front-end/ECMA/window.postMessage.md",
     "Front-end/ECMA/简短的函数(箭头函数).md",
+    "Front-end/ECMA/Generator 生成器.md",
     "TODO.md",
+    "小记.md",
+    "Obsidian/Development Plugin.md",
+    "Front-end/ECMA/window.postMessage.md",
     "Front-end/ECMA/es6 字符串模板.md",
     "NPM/plugins/prompt.md",
     "docker",
