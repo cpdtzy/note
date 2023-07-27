@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "小记.md",
+                "file": "docker/指令.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "小记.md",
+                "file": "docker/指令.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "小记.md",
+                "file": "docker/指令.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "小记.md"
+                "file": "docker/指令.md"
               }
             }
           }
@@ -149,11 +149,12 @@
   "active": "0300a3cf4bd179d9",
   "lastOpenFiles": [
     "docker/nginx.md",
+    "Obsidian/Development Plugin.md",
+    "小记.md",
     "Front-end/ECMA/Generator 生成器.md",
     "Front-end/ECMA/window.postMessage.md",
     "Front-end/ECMA/简短的函数(箭头函数).md",
     "TODO.md",
-    "小记.md",
     "Front-end/ECMA/es6 字符串模板.md",
     "docker/指令.md",
     "NPM/plugins/prompt.md",
@@ -162,7 +163,6 @@
     "NPM/plugins",
     "osc/one 登录测试.md",
     "osc/nbcb-ui 重装情况.md",
-    "Obsidian/Development Plugin.md",
     "Obsidian",
     "Resolved/Webstorm/Cannot Uninstall old IDE after installing a new one. Uninstall hasn't detected folder of ....md",
     "NPM/弃用插件包.md",
