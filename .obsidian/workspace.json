@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docker/nginx.md",
+                "file": "小记.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docker/nginx.md",
+                "file": "小记.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docker/nginx.md",
+                "file": "小记.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docker/nginx.md"
+                "file": "小记.md"
               }
             }
           }
@@ -148,13 +148,13 @@
   },
   "active": "0300a3cf4bd179d9",
   "lastOpenFiles": [
+    "docker/nginx.md",
     "Front-end/ECMA/Generator 生成器.md",
     "Front-end/ECMA/window.postMessage.md",
     "Front-end/ECMA/简短的函数(箭头函数).md",
     "TODO.md",
     "小记.md",
     "Front-end/ECMA/es6 字符串模板.md",
-    "docker/nginx.md",
     "docker/指令.md",
     "NPM/plugins/prompt.md",
     "docker",
