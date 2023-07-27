@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docker/nginx.md",
+                "file": "docker/docker nginx.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docker/nginx.md",
+                "file": "docker/docker nginx.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docker/nginx.md",
+                "file": "docker/docker nginx.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docker/nginx.md"
+                "file": "docker/docker nginx.md"
               }
             }
           }
@@ -149,7 +149,7 @@
   "active": "0300a3cf4bd179d9",
   "lastOpenFiles": [
     "docker/指令.md",
-    "docker/nginx.md",
+    "docker/docker nginx.md",
     "Obsidian/Development Plugin.md",
     "小记.md",
     "Front-end/ECMA/Generator 生成器.md",

@@ -47,10 +47,12 @@ docker cp /mnt/d/default.conf [container]:/etc/nginx/config.d
 在 ==容器== 内部，通过指令 `nginx -t` 会测试你的 ==nginx== 配置文件是否配置正确
 
 ```shell
-
+$ nginx -t
+nginx: the configuration file /etc/nginx/nginx.conf syntax is ok
+nginx: configuration file /etc/nginx/nginx.conf test is successful
 ```
 
-#### 映射nginx目录
+#### 3. 映射 ==nginx== 目录
 
 将nginx容器的配置日志资源等目录映射到本地主机目录下，需要在启动容器时，使用到 `-v` 命令，如：
 
@@ -63,9 +65,11 @@ docker run -d --name nginx \
 nginx
 ```
 
-在用Docker配置Nginx时，有两个主要的配置文件可以使用： `/etc/nginx/nginx.conf`和`/etc/nginx/conf.d/default.conf`。
+在用 ==Docker== 配置 ==Nginx== 时，有两个主要的配置文件可以使用： `/etc/nginx/nginx.conf` 和 `/etc/nginx/conf.d/default.conf`。
 
+#### 4. 打包运行的 ==container== 为 ==images==
 
+通过指令 `docker commit` 可以打包 ==container== 去 ==images== 生成对应的镜像
 
 ```shell
 docker commit [OPTIONS] CONTAINER [REPOSITORY[:TAG]]
