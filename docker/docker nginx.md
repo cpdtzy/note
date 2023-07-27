@@ -7,7 +7,7 @@ REPOSITORY                TAG       IMAGE ID       CREATED         SIZE
 nginx                     latest    eb4a57159180   6 weeks ago     187MB
 ```
 
-下载完成后通过 `docker ==images`== 显示以上信息
+下载完成后通过 `docker images` 显示以上信息
 
 2. 运行 ==images==
 ```shell
