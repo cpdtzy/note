@@ -64,3 +64,23 @@ temp?
 ```
 
 除了 `README.MD` 以外的所有 markdown 文件.
+
+## [FROM](https://docs.docker.com/engine/reference/builder/#from)
+
+```
+FROM [--platform=<platform>] <image> [AS <name>]
+```
+
+or 
+
+```
+FROM [--platform=<platform>] <image>[:<tag>] [AS <name>]
+```
+
+or
+
+```
+FROM [--platform=<platform>] <image>[@<digest>] [AS <name>]
+```
+
+`FROM` 指令初始化一个新的构建阶段并为后续指令设置基本映像。因此，有效的 Dockerfile 必须以 `FROM` 指令开头。该 Image 可以是任何有效的图像 - 从公共存储库中 **pulling an image** 尤其容易开始。
