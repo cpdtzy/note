@@ -145,4 +145,4 @@ RUN ["/bin/bash", "-c", "echo hello"]
 > Note
 > exec 形式被解析为 JSON 数组，这意味着您必须在单词周围使用双引号 (“)，而不是单引号 (‘)。
 
-
+与 *shell* 形式不同，*exec* 形式不调用命令 shell。这意味着不会发生正常的 shell 处理。例如，`RUN [ "echo", "$HOME" ]` 不会对 `$HOME` 进行变量替换。如果您想要 shell 处理，则可以使用 shell 形式或直接执行 shell，例如：`RUN [ "sh", "-c", "echo $HOME" ]`。当使用 exec 形式并直接执行 shell 时，就像 shell 形式一样，是 shell 进行环境变量扩展，而不是 docker。
