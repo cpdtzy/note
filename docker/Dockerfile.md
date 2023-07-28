@@ -1,1 +1,1 @@
-Docker 可以通过读取 [Dockerfile](https://docs.docker.com/engine/reference/builder/) 中的指令自动构建镜像。 Dockerfile 是一个文本文档，其中包含用户可以在命令行上调用来组装映像的所有命令。
+Docker 可以通过读取 [Dockerfile](https://docs.docker.com/engine/reference/builder/) 中的指令自动构建镜像。 *Dockerfile* 是一个文本文档，其中包含用户可以在命令行上调用来组装映像的所有命令。
