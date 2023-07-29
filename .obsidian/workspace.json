@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TODO.md",
+                "file": "Front-end/CSS/@font-palette-values.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TODO.md",
+                "file": "Front-end/CSS/@font-palette-values.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TODO.md",
+                "file": "Front-end/CSS/@font-palette-values.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TODO.md"
+                "file": "Front-end/CSS/@font-palette-values.md"
               }
             }
           }
@@ -148,12 +148,14 @@
   },
   "active": "397c674e347736f2",
   "lastOpenFiles": [
+    "TODO.md",
+    "Front-end/CSS/@font-palette-values.md",
+    "Front-end/CSS",
     "Docker/Dockerfile.md",
     "Front-end/ECMA/Generator 生成器.md",
     "Docker/Docker nginx.md",
     "Docker/指令（Command-line reference）.md",
     "Front-end/ECMA/简短的函数(箭头函数).md",
-    "TODO.md",
     "小记.md",
     "Obsidian/Development Plugin.md",
     "Front-end/ECMA/window.postMessage.md",
@@ -176,7 +178,6 @@
     "Resolved/Webstorm",
     "Resolved",
     "osc",
-    "Front-end/ESMA",
-    "Front-end"
+    "Front-end/ESMA"
   ]
 }
