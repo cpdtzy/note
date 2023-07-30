@@ -17,7 +17,28 @@
 
 `font-family` 字体名称
 
-`base-palette` 基础的调色名称或索引
+`base-palette` 基础的调色名称
+
+`override-colors` 覆盖基本颜色
+
+## 例子
+
+```css
+@import url(https://fonts.googleapis.com/css2?family=Bungee+Spice);
+p {
+  font-family: "Bungee Spice";
+  font-size: 2rem;
+}
+@font-palette-values --Alternate {
+  font-family: "Bungee Spice";
+  override-colors:
+    0 #00ffbb,
+    1 #007744;
+}
+.alternate {
+  font-palette: --Alternate;
+}
+```
 
 
 
