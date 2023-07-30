@@ -12,3 +12,8 @@
 - [ ] 移动端开发
 	- [设计](https://dribbble.com/shots/21095629-Booking-Service-Mobile-App-design-iOS-Android-ux-ui-designer)
 	- 开发框架待选定
+
+## API 学习
+
+- [ ] MutationObserver
+- [ ] ResizeObserver
