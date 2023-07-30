@@ -13,8 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Front-end/CSS/@font-palette-values.md",
+                "file": "Front-end/CSS/font-palette.md",
                 "mode": "source",
+                "backlinks": true,
                 "source": false
               }
             }
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Front-end/CSS/@font-palette-values.md",
+                "file": "Front-end/CSS/font-palette.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Front-end/CSS/@font-palette-values.md",
+                "file": "Front-end/CSS/font-palette.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Front-end/CSS/@font-palette-values.md"
+                "file": "Front-end/CSS/font-palette.md"
               }
             }
           }
@@ -148,8 +149,9 @@
   },
   "active": "397c674e347736f2",
   "lastOpenFiles": [
-    "TODO.md",
     "Front-end/CSS/@font-palette-values.md",
+    "Front-end/CSS/font-palette.md",
+    "TODO.md",
     "Front-end/CSS",
     "Docker/Dockerfile.md",
     "Front-end/ECMA/Generator 生成器.md",

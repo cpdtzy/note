@@ -1,4 +1,4 @@
-[@font-palette-values](https://developer.mozilla.org/en-US/docs/Web/CSS/@font-palette-values) 允许你自定义字体的默认属性，通过 [font-palette](https://developer.mozilla.org/zh-CN/docs/Web/CSS/font-palette) 来使用。
+[@font-palette-values](https://developer.mozilla.org/en-US/docs/Web/CSS/@font-palette-values) 允许你自定义字体的默认属性，通过 [font-palette](obsidian://open?vault=note&file=Front-end%2FCSS%2Ffont-palette) 来使用。
 
 [兼容性](https://developer.mozilla.org/en-US/docs/Web/CSS/@font-palette-values#browser_compatibility)
 
