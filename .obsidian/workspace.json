@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Front-end/BOM/未命名.md",
+                "file": "Front-end/BOM/ResizeObserver.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Front-end/BOM/未命名.md",
+                "file": "Front-end/BOM/ResizeObserver.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Front-end/BOM/未命名.md",
+                "file": "Front-end/BOM/ResizeObserver.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Front-end/BOM/未命名.md"
+                "file": "Front-end/BOM/ResizeObserver.md"
               }
             }
           }
@@ -150,7 +150,7 @@
   "active": "397c674e347736f2",
   "lastOpenFiles": [
     "TODO.md",
-    "Front-end/BOM/未命名.md",
+    "Front-end/BOM/ResizeObserver.md",
     "Front-end/BOM",
     "Front-end/CSS/font-palette.md",
     "Front-end/CSS/@font-palette-values.md",
