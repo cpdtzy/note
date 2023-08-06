@@ -19,8 +19,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "c353ed4f2aeafb0e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TODO.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Front-end/BOM/BOM 新属性.md",
+                "file": "TODO.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Front-end/BOM/BOM 新属性.md",
+                "file": "TODO.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Front-end/BOM/BOM 新属性.md"
+                "file": "TODO.md"
               }
             }
           }
@@ -147,7 +160,7 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "397c674e347736f2",
+  "active": "c353ed4f2aeafb0e",
   "lastOpenFiles": [
     "Front-end/BOM/ResizeObserver.md",
     "Front-end/BOM/BOM 新属性.md",
