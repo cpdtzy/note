@@ -13,11 +13,6 @@
 	- [设计](https://dribbble.com/shots/21095629-Booking-Service-Mobile-App-design-iOS-Android-ux-ui-designer)
 	- 开发框架待选定
 
-## API 学习
-
-- [ ] MutationObserver
-- [ ] ResizeObserver
-
 ## 了解
 
 - [ ] 了解一下 [AntV-G6](https://g6.antv.antgroup.com/)
