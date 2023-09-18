@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "小记.md",
+                "file": "TODO.md",
                 "mode": "source",
                 "source": false
               }
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "小记.md",
+                "file": "TODO.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "小记.md",
+                "file": "TODO.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "小记.md"
+                "file": "TODO.md"
               }
             }
           }
@@ -162,6 +162,8 @@
   },
   "active": "c353ed4f2aeafb0e",
   "lastOpenFiles": [
+    "小记.md",
+    "Obsidian/theme.md",
     "TODO.md",
     "Front-end/Note.md",
     "Front-end/BOM/ResizeObserver.md",
@@ -175,7 +177,6 @@
     "Docker/Docker nginx.md",
     "Docker/指令（Command-line reference）.md",
     "Front-end/ECMA/简短的函数(箭头函数).md",
-    "小记.md",
     "Obsidian/Development Plugin.md",
     "Front-end/ECMA/window.postMessage.md",
     "Front-end/ECMA/es6 字符串模板.md",
