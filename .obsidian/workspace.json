@@ -31,9 +31,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "bddcf4108160de86",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.13"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -160,7 +170,7 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "c353ed4f2aeafb0e",
+  "active": "bddcf4108160de86",
   "lastOpenFiles": [
     "小记.md",
     "Obsidian/theme.md",
