@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Front-end/BOM/BOM 新属性.md",
+                "file": "TODO.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Front-end/BOM/BOM 新属性.md",
+                "file": "TODO.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Front-end/BOM/BOM 新属性.md",
+                "file": "TODO.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Front-end/BOM/BOM 新属性.md"
+                "file": "TODO.md"
               }
             }
           }
@@ -149,9 +149,9 @@
   },
   "active": "397c674e347736f2",
   "lastOpenFiles": [
+    "Front-end/BOM/BOM 新属性.md",
     "TODO.md",
     "Front-end/BOM/ResizeObserver.md",
-    "Front-end/BOM/BOM 新属性.md",
     "小记.md",
     "Obsidian/theme.md",
     "Front-end/Note.md",

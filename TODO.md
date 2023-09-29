@@ -13,6 +13,14 @@
 	- [设计](https://dribbble.com/shots/21095629-Booking-Service-Mobile-App-design-iOS-Android-ux-ui-designer)
 	- 开发框架待选定
 
+## Animation
+
+[25种 canvas 动画](https://webdesign.tutsplus.com/21-ridiculously-impressive-html5-canvas-experiments--net-14210a)
+
+## 库
+
+- [ ] [gsap](https://www.npmjs.com/package/gsap) [官网](https://greensock.com/) 动画
+
 ## 了解
 
 - [ ] 了解一下 [AntV-G6](https://g6.antv.antgroup.com/)
