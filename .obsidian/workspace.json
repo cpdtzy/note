@@ -16,14 +16,13 @@
             }
           },
           {
-            "id": "b5f50a9edfe572a0",
+            "id": "40b12b9f4088cbfb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Browser Bookmark/Browser.md",
+                "file": "未命名.md",
                 "mode": "source",
-                "backlinks": false,
                 "source": false
               }
             }
@@ -95,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Browser Bookmark/Browser.md",
+                "file": "未命名.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Browser Bookmark/Browser.md",
+                "file": "未命名.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Browser Bookmark/Browser.md"
+                "file": "未命名.md"
               }
             }
           }
@@ -156,8 +155,9 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "b5f50a9edfe572a0",
+  "active": "40b12b9f4088cbfb",
   "lastOpenFiles": [
+    "未命名.md",
     "Browser Bookmark/Browser.md",
     "Browser Bookmark/未命名.canvas",
     "Browser Bookmark/sy.md",
