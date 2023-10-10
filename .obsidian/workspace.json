@@ -49,7 +49,7 @@
               "type": "search",
               "state": {
                 "query": "",
-                "matchingCase": false,
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -146,10 +147,11 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "397c674e347736f2",
+  "active": "85bbb550a8d6e308",
   "lastOpenFiles": [
-    "Obsidian/Development Plugin.md",
+    "Front-end/ECMA/window.postMessage.md",
     "Obsidian/Help.md",
+    "Obsidian/Development Plugin.md",
     "Obsidian/theme.md",
     "TODO.md",
     "未命名.md",
@@ -167,7 +169,6 @@
     "Docker/Docker nginx.md",
     "Docker/指令（Command-line reference）.md",
     "Front-end/ECMA/简短的函数(箭头函数).md",
-    "Front-end/ECMA/window.postMessage.md",
     "Front-end/ECMA/es6 字符串模板.md",
     "NPM/plugins/prompt.md",
     "Docker",
