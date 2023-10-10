@@ -4,22 +4,32 @@
     "type": "split",
     "children": [
       {
-        "id": "422a960a702a0fe9",
+        "id": "9f2d993dc5ce6418",
         "type": "tabs",
         "children": [
           {
-            "id": "397c674e347736f2",
+            "id": "d042495756394455",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "b5f50a9edfe572a0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian/Help.md",
+                "file": "Browser Bookmark/Browser.md",
                 "mode": "source",
+                "backlinks": false,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -65,8 +75,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Obsidian/Help.md",
+                "file": "Browser Bookmark/Browser.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Obsidian/Help.md",
+                "file": "Browser Bookmark/Browser.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Obsidian/Help.md"
+                "file": "Browser Bookmark/Browser.md"
               }
             }
           }
@@ -147,14 +156,19 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "85bbb550a8d6e308",
+  "active": "b5f50a9edfe572a0",
   "lastOpenFiles": [
-    "Front-end/ECMA/window.postMessage.md",
+    "Browser Bookmark/Browser.md",
+    "Browser Bookmark/未命名.canvas",
+    "Browser Bookmark/sy.md",
+    "Resolved/Webstorm/Cannot Uninstall old IDE after installing a new one. Uninstall hasn't detected folder of ....md",
+    "Obsidian/Theme.md",
+    "Brawser Bookmark/未命名",
+    "Browser Bookmark",
     "Obsidian/Help.md",
-    "Obsidian/Development Plugin.md",
-    "Obsidian/theme.md",
     "TODO.md",
-    "未命名.md",
+    "Front-end/ECMA/window.postMessage.md",
+    "Obsidian/Development Plugin.md",
     "2023-08-01.md",
     "Front-end/BOM/BOM 新属性.md",
     "Front-end/BOM/ResizeObserver.md",
@@ -174,16 +188,11 @@
     "Docker",
     "NPM/plugins/express.md",
     "NPM/plugins",
-    "osc/one 登录测试.md",
-    "osc/nbcb-ui 重装情况.md",
+    "OSC/one 登录测试.md",
+    "OSC/nbcb-ui 重装情况.md",
     "Obsidian",
-    "Resolved/Webstorm/Cannot Uninstall old IDE after installing a new one. Uninstall hasn't detected folder of ....md",
-    "NPM/弃用插件包.md",
-    "NPM/发布插件库.md",
     "NPM",
     "Front-end/ECMA",
-    "Resolved/Webstorm",
-    "Resolved",
-    "osc"
+    "Resolved/Webstorm"
   ]
 }
