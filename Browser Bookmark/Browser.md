@@ -30,3 +30,15 @@
 
 1. [知网](https://www.cnki.net/)
 
+# Visa
+
+1. [Malaysia](https://malaysiavisa.imi.gov.my/evisa/evisa.jsp)
+
+# 学习
+
+1. [nodeschool](https://nodeschool.io/zh-cn/)
+
+# 题目
+
+1. [HackerRank](https://www.hackerrank.com/dashboard)
+2. [leetcode](https://leetcode.com/)
