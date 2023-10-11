@@ -15,3 +15,14 @@
 4. [1001 Free Fonts](https://www.1001freefonts.com/)
 5. [求字网](https://www.qiuziti.com/)
 6. [毛笔字](http://www.zhenhaotv.com/) 
+
+# Mock
+
+1. [mocky](https://designer.mocky.io/design)
+2. [fastmock](https://fastmock.site/#/)
+
+# VPN
+
+1. [Let's VPN](https://letsvpn.world/)
+2. [芝麻](https://izm.rocks/#/dashboard)
+
