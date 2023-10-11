@@ -1,0 +1,173 @@
+{
+  "main": {
+    "id": "88a381a6e238f910",
+    "type": "split",
+    "children": [
+      {
+        "id": "d13feec171c1595c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "08feb6c02f9032e1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TODO.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5006925c8e4f0053",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "d5de99a270f205bd",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "a1e312407f5be117",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "dbef9c8f36bfdbfb",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "1a7481d47730bfca",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "befea45f59e485b5",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "fe7c6f4465f8e0e8",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "TODO.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "3a2137bfedb069dd",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "TODO.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "f572d386d113af88",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "TODO.md"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "08feb6c02f9032e1",
+  "lastOpenFiles": [
+    "test.md",
+    "Browser Bookmark/Browser.md",
+    "OSC/one 登录测试.md",
+    "OSC 2/one 登录测试.md",
+    "OSC 2/nbcb-ui 重装情况.md",
+    "Obsidian/Development Plugin.md",
+    "小记.md",
+    "Untitled.md",
+    "Browser Bookmark",
+    "TODO.md",
+    "Obsidian/theme.md",
+    "Obsidian",
+    "OSC 2",
+    "OSC/nbcb-ui 重装情况.md",
+    "OSC",
+    "NPM/plugins/prompt.md",
+    "NPM/plugins/express.md",
+    "NPM/弃用插件包.md",
+    "NPM/发布插件库.md",
+    "NPM/plugins",
+    "NPM",
+    "Docket/docker nginx.md",
+    "Docket/Dockerfile.md",
+    "Docket/指令（Command-line reference）.md",
+    "Docket",
+    "Front-end/BOM/ResizeObserver.md",
+    "Front-end/BOM/BOM 新属性.md",
+    "Front-end/CSS/font-palette.md",
+    "Front-end/CSS/@font-palette-values.md",
+    "Front-end/ECMA/es6 字符串模板.md",
+    "Front-end/ECMA/Generator 生成器.md",
+    "Front-end/ECMA/简短的函数(箭头函数).md",
+    "Front-end/ECMA/window.postMessage.md",
+    "Front-end/BOM",
+    "Front-end/CSS",
+    "Front-end/ECMA"
+  ]
+}

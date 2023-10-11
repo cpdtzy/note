@@ -1,30 +1,42 @@
 {
   "main": {
-    "id": "459f9ee4bafc974c",
+    "id": "de6da6bc51fceb17",
     "type": "split",
     "children": [
       {
-        "id": "9f2d993dc5ce6418",
+        "id": "1171b872529fcea3",
         "type": "tabs",
         "children": [
           {
-            "id": "d042495756394455",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "40b12b9f4088cbfb",
+            "id": "ac4fc768779b4475",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "未命名.md",
+                "file": "Obsidian/Theme.md",
                 "mode": "source",
                 "source": false
               }
+            }
+          },
+          {
+            "id": "eebe0accea9472e0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Obsidian/Installed plugins.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "10f4dc3c5c45b8d1",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
             }
           }
         ],
@@ -34,15 +46,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "fde85297443698cb",
+    "id": "6f407350674317c8",
     "type": "split",
     "children": [
       {
-        "id": "c3175d233e8c2c1b",
+        "id": "d9b3795c77cc63f8",
         "type": "tabs",
         "children": [
           {
-            "id": "80ee5e88103990b2",
+            "id": "04ba0165a5c8a727",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -52,13 +64,13 @@
             }
           },
           {
-            "id": "85bbb550a8d6e308",
+            "id": "8999b3ee4cb7a0d3",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
                 "query": "",
-                "matchingCase": true,
+                "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -67,7 +79,7 @@
             }
           },
           {
-            "id": "140302689425874c",
+            "id": "72442071addbbb39",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -81,44 +93,44 @@
     "width": 300
   },
   "right": {
-    "id": "a3412fa6f2694525",
+    "id": "11f287446c38c21d",
     "type": "split",
     "children": [
       {
-        "id": "8444401c197f344e",
+        "id": "247b1cde8959a589",
         "type": "tabs",
         "children": [
           {
-            "id": "1b0d8db12dc69ed1",
+            "id": "10d85317e2325045",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "未命名.md",
+                "file": "Obsidian/Installed plugins.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
-                "backlinkCollapsed": true,
+                "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "e736bef505a64bc9",
+            "id": "dc38db9aa76396d3",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "未命名.md",
-                "linksCollapsed": true,
+                "file": "Obsidian/Installed plugins.md",
+                "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "686bdb2d09483a6b",
+            "id": "84f0a892e0dec641",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -129,12 +141,12 @@
             }
           },
           {
-            "id": "427952459b283a3d",
+            "id": "99687f658e747477",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "未命名.md"
+                "file": "Obsidian/Installed plugins.md"
               }
             }
           }
@@ -155,44 +167,16 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "40b12b9f4088cbfb",
+  "active": "04ba0165a5c8a727",
   "lastOpenFiles": [
-    "未命名.md",
-    "Browser Bookmark/Browser.md",
-    "Browser Bookmark/未命名.canvas",
-    "Browser Bookmark/sy.md",
-    "Resolved/Webstorm/Cannot Uninstall old IDE after installing a new one. Uninstall hasn't detected folder of ....md",
     "Obsidian/Theme.md",
-    "Brawser Bookmark/未命名",
-    "Browser Bookmark",
-    "Obsidian/Help.md",
-    "TODO.md",
-    "Front-end/ECMA/window.postMessage.md",
+    "Obsidian/Installed plugins.md",
     "Obsidian/Development Plugin.md",
-    "2023-08-01.md",
-    "Front-end/BOM/BOM 新属性.md",
-    "Front-end/BOM/ResizeObserver.md",
+    "Browser Bookmark/Browser.md",
+    "TODO.md",
     "小记.md",
-    "Front-end/Note.md",
-    "Front-end/BOM",
-    "Front-end/CSS/font-palette.md",
-    "Front-end/CSS/@font-palette-values.md",
-    "Front-end/CSS",
-    "Docker/Dockerfile.md",
-    "Front-end/ECMA/Generator 生成器.md",
-    "Docker/Docker nginx.md",
-    "Docker/指令（Command-line reference）.md",
-    "Front-end/ECMA/简短的函数(箭头函数).md",
-    "Front-end/ECMA/es6 字符串模板.md",
-    "NPM/plugins/prompt.md",
-    "Docker",
-    "NPM/plugins/express.md",
-    "NPM/plugins",
-    "OSC/one 登录测试.md",
-    "OSC/nbcb-ui 重装情况.md",
-    "Obsidian",
-    "NPM",
-    "Front-end/ECMA",
-    "Resolved/Webstorm"
+    "Front-end/BOM/ResizeObserver.md",
+    "test.md",
+    "Front-end/BOM/BOM 新属性.md"
   ]
 }
