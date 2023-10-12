@@ -25,7 +25,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "源码分析题.md",
+                "file": "NPM/弃用插件包.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "080fed18667876c3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NPM/NPM 目录.md",
                 "mode": "source",
                 "source": false
               }
@@ -40,7 +52,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -106,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "源码分析题.md",
+                "file": "NPM/NPM 目录.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "源码分析题.md",
+                "file": "NPM/NPM 目录.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "源码分析题.md"
+                "file": "NPM/NPM 目录.md"
               }
             }
           }
@@ -167,10 +179,13 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "eebe0accea9472e0",
+  "active": "04ba0165a5c8a727",
   "lastOpenFiles": [
-    "Browser Bookmark/Browser.md",
+    "NPM/弃用插件包.md",
+    "NPM/NPM 目录.md",
+    "NPM/发布插件库.md",
     "源码分析题.md",
+    "Browser Bookmark/Browser.md",
     "Obsidian/Theme.md",
     "Obsidian/Installed plugins.md",
     "Obsidian/Development Plugin.md",
