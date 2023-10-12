@@ -8,30 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ac4fc768779b4475",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Obsidian/Theme.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "eebe0accea9472e0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NPM/弃用插件包.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "080fed18667876c3",
             "type": "leaf",
             "state": {
@@ -42,17 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "10f4dc3c5c45b8d1",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -179,14 +146,14 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "04ba0165a5c8a727",
+  "active": "080fed18667876c3",
   "lastOpenFiles": [
-    "NPM/弃用插件包.md",
+    "Obsidian/Theme.md",
     "NPM/NPM 目录.md",
+    "NPM/弃用插件包.md",
     "NPM/发布插件库.md",
     "源码分析题.md",
     "Browser Bookmark/Browser.md",
-    "Obsidian/Theme.md",
     "Obsidian/Installed plugins.md",
     "Obsidian/Development Plugin.md",
     "TODO.md",
