@@ -13,8 +13,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "源码分析题.md",
-                "mode": "preview",
+                "file": "论文📑/任务书.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8111e9f2d86ed5a5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NPM/NPM 目录.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -85,7 +97,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "源码分析题.md",
+            "file": "论文📑/任务书.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +114,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "源码分析题.md",
+            "file": "论文📑/任务书.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +126,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "源码分析题.md"
+            "file": "论文📑/任务书.md"
           }
         }
       }
@@ -133,8 +145,15 @@
   },
   "active": "08feb6c02f9032e1",
   "lastOpenFiles": [
-    "TODO.md",
+    "论文📑/互帮互助平台.md",
+    "NPM/NPM 目录.md",
+    "论文📑/任务书.md",
+    "论文📑/页面流程图.canvas",
+    "Obsidian/Theme.md",
+    "论文📑",
     "源码分析题.md",
+    "Obsidian/Installed plugins.md",
+    "TODO.md",
     "test.md",
     "Browser Bookmark/Browser.md",
     "OSC/one 登录测试.md",
@@ -142,7 +161,6 @@
     "OSC 2/nbcb-ui 重装情况.md",
     "Obsidian/Development Plugin.md",
     "小记.md",
-    "Untitled.md",
     "Browser Bookmark",
     "Obsidian/theme.md",
     "Obsidian",
@@ -161,13 +179,7 @@
     "Docket",
     "Front-end/BOM/ResizeObserver.md",
     "Front-end/BOM/BOM 新属性.md",
-    "Front-end/CSS/font-palette.md",
-    "Front-end/CSS/@font-palette-values.md",
-    "Front-end/ECMA/es6 字符串模板.md",
-    "Front-end/ECMA/Generator 生成器.md",
-    "Front-end/ECMA/简短的函数(箭头函数).md",
     "Front-end/BOM",
-    "Front-end/CSS",
-    "Front-end/ECMA"
+    "Front-end/CSS"
   ]
 }
