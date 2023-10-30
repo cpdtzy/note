@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "5194948accc83b5a",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.16"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -146,7 +157,7 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "080fed18667876c3",
+  "active": "5194948accc83b5a",
   "lastOpenFiles": [
     "Obsidian/Theme.md",
     "NPM/NPM 目录.md",
