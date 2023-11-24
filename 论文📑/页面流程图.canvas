@@ -1,0 +1,16 @@
+{
+	"nodes":[
+		{"id":"2f35421cc73ba2bf","x":-74,"y":186,"width":250,"height":60,"type":"text","text":"任务列表"},
+		{"id":"831fa0dcba9897f0","x":251,"y":-5,"width":250,"height":60,"type":"text","text":"个人中心"},
+		{"id":"41933df79bfdc911","x":-324,"y":-80,"width":250,"height":60,"type":"text","text":"任务详情"},
+		{"id":"fcbc9ecacf6e2b73","x":251,"y":640,"width":250,"height":60,"type":"text","text":"登陆"},
+		{"id":"4bce6d119129b841","x":-324,"y":380,"width":250,"height":60,"type":"text","text":"发布任务"}
+	],
+	"edges":[
+		{"id":"43549760c28653cd","fromNode":"2f35421cc73ba2bf","fromSide":"bottom","toNode":"fcbc9ecacf6e2b73","toSide":"left"},
+		{"id":"323c0bf09b7e68f2","fromNode":"2f35421cc73ba2bf","fromSide":"top","toNode":"831fa0dcba9897f0","toSide":"left","label":"登陆"},
+		{"id":"5bbe173f7e167105","fromNode":"2f35421cc73ba2bf","fromSide":"left","toNode":"41933df79bfdc911","toSide":"bottom"},
+		{"id":"a4fb61f414855328","fromNode":"fcbc9ecacf6e2b73","fromSide":"top","toNode":"2f35421cc73ba2bf","toSide":"right","label":"登陆后返回🔙任务列表"},
+		{"id":"a4c8ef33cbb24547","fromNode":"2f35421cc73ba2bf","fromSide":"left","toNode":"4bce6d119129b841","toSide":"top"}
+	]
+}
