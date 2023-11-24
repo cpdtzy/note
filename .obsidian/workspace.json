@@ -4,31 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "9f2d993dc5ce6418",
+        "id": "accb89c7deb65a10",
         "type": "tabs",
         "children": [
           {
-            "id": "d042495756394455",
+            "id": "dee1efd6158873b3",
             "type": "leaf",
             "state": {
               "type": "empty",
               "state": {}
             }
-          },
-          {
-            "id": "40b12b9f4088cbfb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "未命名.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -94,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "未命名.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "未命名.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -133,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "未命名.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -155,7 +138,7 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "40b12b9f4088cbfb",
+  "active": "dee1efd6158873b3",
   "lastOpenFiles": [
     "未命名.md",
     "Browser Bookmark/Browser.md",
