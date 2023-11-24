@@ -11,8 +11,12 @@
             "id": "dee1efd6158873b3",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Front-end/BOM/postMessage.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Front-end/BOM/postMessage.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Front-end/BOM/postMessage.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Front-end/BOM/postMessage.md"
+              }
             }
           }
         ]
@@ -140,6 +148,9 @@
   },
   "active": "dee1efd6158873b3",
   "lastOpenFiles": [
+    "Front-end/BOM/BOM 新属性.md",
+    "Front-end/ECMA/es6 字符串模板.md",
+    "Front-end/BOM/postMessage.md",
     "Browser Bookmark/Browser.md",
     "Browser Bookmark",
     "TODO.md",
@@ -166,7 +177,6 @@
     "Front-end/ECMA/window.postMessage.md",
     "Obsidian/Development Plugin.md",
     "2023-08-01.md",
-    "Front-end/BOM/BOM 新属性.md",
     "Front-end/BOM/ResizeObserver.md",
     "小记.md",
     "Front-end/Note.md",
@@ -174,7 +184,6 @@
     "Front-end/CSS/font-palette.md",
     "Front-end/CSS/@font-palette-values.md",
     "Front-end/CSS",
-    "Docker/Dockerfile.md",
     "Docker",
     "NPM/plugins"
   ]
