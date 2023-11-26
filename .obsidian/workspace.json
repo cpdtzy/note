@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "论文📑/互帮互助平台.md",
+                "file": "论文📑/论文.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "论文📑/互帮互助平台.md",
+                "file": "论文📑/论文.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "论文📑/互帮互助平台.md",
+                "file": "论文📑/论文.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "论文📑/互帮互助平台.md"
+                "file": "论文📑/论文.md"
               }
             }
           }
@@ -148,8 +148,9 @@
   },
   "active": "dee1efd6158873b3",
   "lastOpenFiles": [
-    "论文📑/任务书.md",
     "论文📑/互帮互助平台.md",
+    "论文📑/论文.md",
+    "论文📑/任务书.md",
     "Front-end/BOM/postMessage.md",
     "README.md",
     "Front-end/BOM/BOM 新属性.md",
@@ -182,7 +183,6 @@
     "小记.md",
     "Front-end/Note.md",
     "Front-end/BOM",
-    "Front-end/CSS/font-palette.md",
     "Front-end/CSS",
     "Docker",
     "NPM/plugins"
