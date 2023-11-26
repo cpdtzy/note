@@ -146,8 +146,9 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "dee1efd6158873b3",
+  "active": "80ee5e88103990b2",
   "lastOpenFiles": [
+    "README.md",
     "Front-end/BOM/BOM 新属性.md",
     "Front-end/ECMA/es6 字符串模板.md",
     "Front-end/BOM/postMessage.md",
@@ -182,7 +183,6 @@
     "Front-end/Note.md",
     "Front-end/BOM",
     "Front-end/CSS/font-palette.md",
-    "Front-end/CSS/@font-palette-values.md",
     "Front-end/CSS",
     "Docker",
     "NPM/plugins"
