@@ -12,4 +12,6 @@ curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.7/install.sh | bash
 wget -qO- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.7/install.sh | bash
 ```
 
+## problem
 
+1. nvm install 最新版本，需要在管理权限下，才能够安装
