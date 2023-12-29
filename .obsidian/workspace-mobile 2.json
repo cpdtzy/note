@@ -1,19 +1,31 @@
 {
   "main": {
-    "id": "89b434ff52de6925",
+    "id": "88a381a6e238f910",
     "type": "split",
     "children": [
       {
-        "id": "fce9ca722eab56cf",
+        "id": "d13feec171c1595c",
         "type": "tabs",
         "children": [
           {
-            "id": "b19c51114032e68a",
+            "id": "08feb6c02f9032e1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TODO.md",
+                "file": "论文📑/任务书.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8111e9f2d86ed5a5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NPM/NPM 目录.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,11 +37,11 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "a4bdae615fb35651",
+    "id": "5006925c8e4f0053",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "9796e5c17b4cc0a9",
+        "id": "d5de99a270f205bd",
         "type": "leaf",
         "state": {
           "type": "file-explorer",
@@ -39,7 +51,7 @@
         }
       },
       {
-        "id": "f9518575e4124fbf",
+        "id": "a1e312407f5be117",
         "type": "leaf",
         "state": {
           "type": "search",
@@ -54,7 +66,7 @@
         }
       },
       {
-        "id": "51869d5adb82694d",
+        "id": "dbef9c8f36bfdbfb",
         "type": "leaf",
         "state": {
           "type": "tag",
@@ -65,7 +77,7 @@
         }
       },
       {
-        "id": "df5648e6514309a3",
+        "id": "1a7481d47730bfca",
         "type": "leaf",
         "state": {
           "type": "bookmarks",
@@ -76,16 +88,16 @@
     "currentTab": 0
   },
   "right": {
-    "id": "0652e720e8266230",
+    "id": "befea45f59e485b5",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "62be570bb5f923e6",
+        "id": "fe7c6f4465f8e0e8",
         "type": "leaf",
         "state": {
           "type": "backlink",
           "state": {
-            "file": "TODO.md",
+            "file": "论文📑/任务书.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -97,24 +109,24 @@
         }
       },
       {
-        "id": "361efb4661d4d2de",
+        "id": "3a2137bfedb069dd",
         "type": "leaf",
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "TODO.md",
+            "file": "论文📑/任务书.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
         }
       },
       {
-        "id": "dcd757155f9e6e03",
+        "id": "f572d386d113af88",
         "type": "leaf",
         "state": {
           "type": "outline",
           "state": {
-            "file": "TODO.md"
+            "file": "论文📑/任务书.md"
           }
         }
       }
@@ -131,23 +143,43 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9796e5c17b4cc0a9",
+  "active": "d5de99a270f205bd",
   "lastOpenFiles": [
-    "WebAssembly.md",
-    "TODO.md",
-    "Node",
-    "Node/nvm.md",
-    "/Node/nvm.md",
-    "/WebAssembly.md",
-    "/Node",
-    "/论文📑/互帮互助平台.md",
-    "/论文📑/论文.md",
-    "源码分析题.md",
-    "小记.md",
+    "论文📑/互帮互助平台.md",
+    "NPM/NPM 目录.md",
     "论文📑/任务书.md",
-    "论文📑/论文.md",
-    "Front-end/BOM/window.postMessage.md",
-    "Front-end/BOM/postMessage.md",
-    "README.md"
+    "论文📑/页面流程图.canvas",
+    "Obsidian/Theme.md",
+    "论文📑",
+    "源码分析题.md",
+    "Obsidian/Installed plugins.md",
+    "TODO.md",
+    "test.md",
+    "Browser Bookmark/Browser.md",
+    "OSC/one 登录测试.md",
+    "OSC 2/one 登录测试.md",
+    "OSC 2/nbcb-ui 重装情况.md",
+    "Obsidian/Development Plugin.md",
+    "小记.md",
+    "Browser Bookmark",
+    "Obsidian/theme.md",
+    "Obsidian",
+    "OSC 2",
+    "OSC/nbcb-ui 重装情况.md",
+    "OSC",
+    "NPM/plugins/prompt.md",
+    "NPM/plugins/express.md",
+    "NPM/弃用插件包.md",
+    "NPM/发布插件库.md",
+    "NPM/plugins",
+    "NPM",
+    "Docket/docker nginx.md",
+    "Docket/Dockerfile.md",
+    "Docket/指令（Command-line reference）.md",
+    "Docket",
+    "Front-end/BOM/ResizeObserver.md",
+    "Front-end/BOM/BOM 新属性.md",
+    "Front-end/BOM",
+    "Front-end/CSS"
   ]
 }

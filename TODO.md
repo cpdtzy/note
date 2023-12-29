@@ -30,3 +30,7 @@
 
 - [ ] 了解一下 [AntV-G6](https://g6.antv.antgroup.com/)
 - [ ] 了解一下 [AntV-X6](https://x6.antv.antgroup.com/)
+
+## 新的css属性
+
+scroll-snap css 轮播图
