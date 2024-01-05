@@ -29,8 +29,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -76,7 +75,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -157,10 +157,10 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "3e1d189e67af4e00",
+  "active": "85bbb550a8d6e308",
   "lastOpenFiles": [
-    "Front-end/WebAssembly.md",
     "Tools/runkit.md",
+    "Front-end/WebAssembly.md",
     "Tools",
     "论文📑/任务书.md",
     "Front-end/BOM/window.postMessage.md",
