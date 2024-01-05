@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "3e1d189e67af4e00",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.3"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -146,7 +157,7 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "45ed4b94caca5c45",
+  "active": "3e1d189e67af4e00",
   "lastOpenFiles": [
     "Front-end/WebAssembly.md",
     "Tools/runkit.md",
