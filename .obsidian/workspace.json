@@ -20,16 +20,19 @@
             }
           },
           {
-            "id": "3e1d189e67af4e00",
+            "id": "07338055b9c98209",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.5.3"
+                "file": "Front-end/CSS/Position sticky problem.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -75,8 +78,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -96,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tools/runkit.md",
+                "file": "Front-end/CSS/Position sticky problem.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tools/runkit.md",
+                "file": "Front-end/CSS/Position sticky problem.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tools/runkit.md"
+                "file": "Front-end/CSS/Position sticky problem.md"
               }
             }
           }
@@ -157,9 +159,10 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "85bbb550a8d6e308",
+  "active": "07338055b9c98209",
   "lastOpenFiles": [
     "Tools/runkit.md",
+    "Front-end/CSS/Position sticky problem.md",
     "Front-end/WebAssembly.md",
     "Tools",
     "论文📑/任务书.md",
@@ -194,7 +197,6 @@
     "Brawser Bookmark/未命名",
     "Obsidian/Help.md",
     "Front-end/ECMA/window.postMessage.md",
-    "Obsidian/Development Plugin.md",
     "Front-end/BOM",
     "Front-end/CSS"
   ]
