@@ -8,7 +8,7 @@
 
 ### 后端
 
-- 设置 `application/x-www-form-urlencoded` 需要使用 bodyParser 解析
+- 设置 `application/x-www-form-urlencoded` 需要使用 `bodyParser` 解析
 - 设置 `multipart/form-data` 需要使用 `multer` 或 `koa-multer` 解析
 	接收方案之一是利用nodejs中间件：`multiparty`，`multiparty` 是 nodejs `框架express` 推荐的中间件。
 
