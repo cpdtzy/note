@@ -8,30 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c1b4e6e133d494d0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Resolved/Webstorm/Cannot Uninstall old IDE after installing a new one. Uninstall hasn't detected folder of ....md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "407a041675db2a86",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Browser Bookmark/Browser.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "2877abaf85fe3bcd",
             "type": "leaf",
             "state": {
@@ -43,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -174,6 +149,7 @@
   "active": "2877abaf85fe3bcd",
   "lastOpenFiles": [
     "Browser Bookmark/Browser.md",
+    "Resolved/Webstorm/Cannot Uninstall old IDE after installing a new one. Uninstall hasn't detected folder of ....md",
     "Browser Bookmark/gsap.md",
     "Untitled",
     "OSC/one 登录测试.md",
@@ -206,7 +182,6 @@
     "Browser Bookmark",
     "Front-end/ECMA/es6 字符串模板.md",
     "docker/docker nginx.md",
-    "docker/Dockerfile.md",
     "docker",
     "Front-end/CSS",
     "Front-end/BOM"
