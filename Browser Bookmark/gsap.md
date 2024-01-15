@@ -1,6 +1,14 @@
+---
+aliases:
+  - Gsap
+Date: 2024-01-15T22:24:00
+tags:
+  - "#Javascript"
+  - "#animation"
+  - "#library"
+url: https://gsap.com/
+---
 js 动画库
-url: [https://gsap.com/](https://gsap.com/)
-
 
 1. scroll
 2. svg
