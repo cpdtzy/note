@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Resolved/nodejs Koa 传输 formData 数据.md",
+                "file": "NPM/plugins/prompt.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Resolved/nodejs Koa 传输 formData 数据.md",
+                "file": "NPM/plugins/prompt.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Resolved/nodejs Koa 传输 formData 数据.md",
+                "file": "NPM/plugins/prompt.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Resolved/nodejs Koa 传输 formData 数据.md"
+                "file": "NPM/plugins/prompt.md"
               }
             }
           }
@@ -146,11 +146,14 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "80ee5e88103990b2",
+  "active": "3b7035ce9acb0242",
   "lastOpenFiles": [
+    "NPM/plugins/express.md",
+    "NPM/plugins/prompt.md",
+    "Resolved/nodejs Koa 传输 formData 数据.md",
+    "NPM/packages",
     "个人简历.md",
     "Browser Bookmark/gsap.md",
-    "Resolved/nodejs Koa 传输 formData 数据.md",
     "Tools/runkit.md",
     "Front-end/CSS/Position sticky problem.md",
     "Front-end/CSS/font-palette.md",
@@ -179,12 +182,9 @@
     "Obsidian",
     "NPM/NPM 目录.md",
     "NPM",
-    "Docket/指令（Command-line reference）.md",
-    "Docket/docker nginx.md",
     "Docket",
     "Browser Bookmark/未命名.canvas",
     "Brawser Bookmark/未命名",
-    "Front-end/BOM",
-    "Front-end/CSS"
+    "Front-end/BOM"
   ]
 }
