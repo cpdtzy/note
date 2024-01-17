@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NPM/plugins/prompt.md",
+                "file": "NPM/packages/handlebars.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NPM/plugins/prompt.md",
+                "file": "NPM/packages/handlebars.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NPM/plugins/prompt.md",
+                "file": "NPM/packages/handlebars.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NPM/plugins/prompt.md"
+                "file": "NPM/packages/handlebars.md"
               }
             }
           }
@@ -148,8 +148,9 @@
   },
   "active": "3b7035ce9acb0242",
   "lastOpenFiles": [
-    "NPM/plugins/express.md",
-    "NPM/plugins/prompt.md",
+    "NPM/packages/express.md",
+    "NPM/packages/handlebars.md",
+    "NPM/packages/prompt.md",
     "Resolved/nodejs Koa 传输 formData 数据.md",
     "NPM/packages",
     "个人简历.md",
@@ -180,7 +181,6 @@
     "Obsidian/Theme.md",
     "Obsidian/Installed plugins.md",
     "Obsidian",
-    "NPM/NPM 目录.md",
     "NPM",
     "Docket",
     "Browser Bookmark/未命名.canvas",
