@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NPM/packages/handlebars.md",
+                "file": "Node/nvm.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bb3f71ee111ea417",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Node/nvm.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NPM/packages/handlebars.md",
+                "file": "Node/nvm.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NPM/packages/handlebars.md",
+                "file": "Node/nvm.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NPM/packages/handlebars.md"
+                "file": "Node/nvm.md"
               }
             }
           }
@@ -146,16 +159,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2877abaf85fe3bcd",
+  "active": "bb3f71ee111ea417",
   "lastOpenFiles": [
+    "Node/node 版本控制.md",
+    "Node/nvm.md",
+    "Untitled",
+    "NPM/packages/handlebars.md",
     "Browser Bookmark/gsap.md",
     "NPM/packages/prompt.md",
-    "NPM/packages/handlebars.md",
     "NPM/packages/express.md",
     "NPM/packages",
     "Browser Bookmark/Browser.md",
     "Resolved/Webstorm/Cannot Uninstall old IDE after installing a new one. Uninstall hasn't detected folder of ....md",
-    "Untitled",
     "OSC/one 登录测试.md",
     "README.md",
     "OSC/nbcb-ui 重装情况.md",
@@ -172,7 +187,6 @@
     "Resolved/nodejs Koa 传输 formData 数据.md",
     "Obsidian/Theme.md",
     "Obsidian/Installed plugins.md",
-    "Node/nvm.md",
     "Node",
     "NPM/NPM 目录.md",
     "Front-end/WebAssembly.md",
@@ -180,7 +194,6 @@
     "Front-end/BOM/window.postMessage.md",
     "Front-end/BOM/postMessage.md",
     "Docket/指令（Command-line reference）.md",
-    "Docket/Dockerfile.md",
     "Docket",
     "Browser Bookmark",
     "docker",
