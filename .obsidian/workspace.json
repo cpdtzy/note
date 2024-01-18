@@ -4,23 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "9499f2a8361b15b3",
+        "id": "be731a302bc658b0",
         "type": "tabs",
         "children": [
           {
-            "id": "2877abaf85fe3bcd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Node/nvm.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bb3f71ee111ea417",
+            "id": "3b7035ce9acb0242",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -31,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -61,8 +48,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#sd",
-                "matchingCase": false,
+                "query": "",
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -151,52 +138,53 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
     }
   },
-  "active": "bb3f71ee111ea417",
+  "active": "3b7035ce9acb0242",
   "lastOpenFiles": [
-    "Node/nvm.md",
     "Node/node 版本控制.md",
-    "Untitled",
-    "NPM/packages/handlebars.md",
-    "Browser Bookmark/gsap.md",
-    "NPM/packages/prompt.md",
     "NPM/packages/express.md",
+    "NPM/packages/handlebars.md",
+    "NPM/packages/prompt.md",
+    "Resolved/nodejs Koa 传输 formData 数据.md",
     "NPM/packages",
-    "Browser Bookmark/Browser.md",
-    "Resolved/Webstorm/Cannot Uninstall old IDE after installing a new one. Uninstall hasn't detected folder of ....md",
-    "OSC/one 登录测试.md",
-    "README.md",
-    "OSC/nbcb-ui 重装情况.md",
-    "Front-end/ECMA/Generator 生成器.md",
-    "OSC",
-    "论文📑/页面流程图.canvas",
-    "论文📑/论文.md",
+    "个人简历.md",
+    "Browser Bookmark/gsap.md",
+    "Tools/runkit.md",
+    "Front-end/CSS/Position sticky problem.md",
+    "Front-end/CSS/font-palette.md",
+    "Front-end/CSS/@font-palette-values.md",
+    "Front-end/WebAssembly.md",
+    "Tools",
     "论文📑/任务书.md",
+    "Front-end/BOM/window.postMessage.md",
+    "Node/nvm.md",
+    "论文📑/页面流程图.canvas",
+    "Node",
+    "论文📑/论文.md",
     "论文📑/互帮互助平台.md",
+    "小记.md",
+    "README.md",
+    "TODO.md",
+    "Front-end/BOM/postMessage.md",
+    "Front-end/BOM/BOM 新属性.md",
+    "Front-end/ECMA/es6 字符串模板.md",
+    "Browser Bookmark/Browser.md",
+    "Browser Bookmark",
     "论文📑",
     "源码分析题.md",
-    "Tools/runkit.md",
-    "Tools",
-    "Resolved/nodejs Koa 传输 formData 数据.md",
     "Obsidian/Theme.md",
-    "Obsidian/Installed plugins.md",
-    "Node",
-    "NPM/NPM 目录.md",
-    "Front-end/WebAssembly.md",
-    "Front-end/CSS/Position sticky problem.md",
-    "Front-end/BOM/window.postMessage.md",
-    "Front-end/BOM/postMessage.md",
-    "Docket/指令（Command-line reference）.md",
+    "Obsidian",
+    "NPM",
     "Docket",
-    "Browser Bookmark",
-    "docker",
-    "Front-end/CSS"
+    "Browser Bookmark/未命名.canvas",
+    "Brawser Bookmark/未命名",
+    "Front-end/BOM"
   ]
 }
