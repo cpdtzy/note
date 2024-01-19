@@ -40,3 +40,7 @@ scroll-snap css 轮播图
 
 
 [https://juejin.cn/post/7079706017579139102](https://juejin.cn/post/7079706017579139102)
+
+
+iife ? 
+umd ?
