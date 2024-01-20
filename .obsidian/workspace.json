@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "baee69dc7626c369",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Rollup.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TODO.md",
+                "file": "Rollup.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TODO.md",
+                "file": "Rollup.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TODO.md"
+                "file": "Rollup.md"
               }
             }
           }
@@ -146,8 +159,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "67eff3ce202ca4cb",
+  "active": "baee69dc7626c369",
   "lastOpenFiles": [
+    "TODO.md",
+    "Rollup.md",
     "Node/nvm.md",
     "NPM/packages/handlebars.md",
     "pnpm  ERR_PNPM_UNEXPECTED_STORE.md",
@@ -179,8 +194,6 @@
     "NPM/NPM 目录.md",
     "Front-end/WebAssembly.md",
     "Front-end/CSS/Position sticky problem.md",
-    "Front-end/BOM/window.postMessage.md",
-    "Front-end/BOM/postMessage.md",
     "Docket",
     "Browser Bookmark",
     "docker",
