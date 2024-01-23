@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TODO.md",
+                "file": "源码分析/vite.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TODO.md",
+                "file": "源码分析/vite.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TODO.md",
+                "file": "源码分析/vite.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TODO.md"
+                "file": "源码分析/vite.md"
               }
             }
           }
@@ -148,16 +148,17 @@
   },
   "active": "67eff3ce202ca4cb",
   "lastOpenFiles": [
+    "TODO.md",
+    "源码分析/vite.md",
+    "源码分析",
     "Rollup.md",
     "Resolved/pnpm  ERR_PNPM_UNEXPECTED_STORE.md",
     "NPM/packages/rimraf.md",
     "NPM/packages/Rollup.md",
-    "TODO.md",
     "Node/nvm.md",
     "NPM/packages/handlebars.md",
     "pnpm  ERR_PNPM_UNEXPECTED_STORE.md",
     "Node/node 版本控制.md",
-    "Untitled",
     "Browser Bookmark/gsap.md",
     "NPM/packages/prompt.md",
     "NPM/packages/express.md",
@@ -179,7 +180,6 @@
     "Tools",
     "Resolved/nodejs Koa 传输 formData 数据.md",
     "Obsidian/Theme.md",
-    "Obsidian/Installed plugins.md",
     "Node",
     "Docket",
     "Browser Bookmark",
