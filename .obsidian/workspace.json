@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NPM/packages/rimraf.md",
+                "file": "Front-end/BOM/URL.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NPM/packages/rimraf.md",
+                "file": "Front-end/BOM/URL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NPM/packages/rimraf.md",
+                "file": "Front-end/BOM/URL.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NPM/packages/rimraf.md"
+                "file": "Front-end/BOM/URL.md"
               }
             }
           }
@@ -148,19 +148,20 @@
   },
   "active": "b128d53a81b0771a",
   "lastOpenFiles": [
-    "Resolved/pnpm  ERR_PNPM_UNEXPECTED_STORE.md",
     "NPM/packages/rimraf.md",
+    "Front-end/BOM/URL.md",
+    "NPM/packages/Rollup.md",
+    "个人简历.md",
+    "Resolved/pnpm  ERR_PNPM_UNEXPECTED_STORE.md",
     "NPM/发布插件库.md",
     "NPM/NPM 目录.md",
     "NPM/弃用插件包.md",
     "NPM/packages/express.md",
     "NPM/packages/handlebars.md",
-    "Rollup.md",
     "Node/node 版本控制.md",
     "NPM/packages/prompt.md",
     "Resolved/nodejs Koa 传输 formData 数据.md",
     "NPM/packages",
-    "个人简历.md",
     "Browser Bookmark/gsap.md",
     "Tools/runkit.md",
     "Front-end/CSS/Position sticky problem.md",
@@ -177,7 +178,6 @@
     "论文📑/互帮互助平台.md",
     "小记.md",
     "README.md",
-    "TODO.md",
     "Browser Bookmark",
     "论文📑",
     "Obsidian",
