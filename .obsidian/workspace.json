@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Front-end/BOM/BOM 新属性.md",
+                "file": "Browser Bookmark/Browser.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Front-end/BOM/BOM 新属性.md",
+                "file": "Browser Bookmark/Browser.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Front-end/BOM/BOM 新属性.md",
+                "file": "Browser Bookmark/Browser.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Front-end/BOM/BOM 新属性.md"
+                "file": "Browser Bookmark/Browser.md"
               }
             }
           }
@@ -148,6 +148,9 @@
   },
   "active": "b128d53a81b0771a",
   "lastOpenFiles": [
+    "Browser Bookmark/gsap.md",
+    "Browser Bookmark/Browser.md",
+    "Front-end/BOM/BOM 新属性.md",
     "Front-end/BOM/URL.md",
     "NPM/packages/rimraf.md",
     "NPM/packages/Rollup.md",
@@ -162,7 +165,6 @@
     "NPM/packages/prompt.md",
     "Resolved/nodejs Koa 传输 formData 数据.md",
     "NPM/packages",
-    "Browser Bookmark/gsap.md",
     "Tools/runkit.md",
     "Front-end/CSS/Position sticky problem.md",
     "Front-end/CSS/font-palette.md",
@@ -176,8 +178,6 @@
     "Node",
     "论文📑/论文.md",
     "论文📑/互帮互助平台.md",
-    "小记.md",
-    "README.md",
     "Browser Bookmark",
     "论文📑",
     "Obsidian",
