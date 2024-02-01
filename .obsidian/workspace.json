@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Browser Bookmark/Browser.md",
+                "file": "小记.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Browser Bookmark/Browser.md",
+                "file": "小记.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Browser Bookmark/Browser.md",
+                "file": "小记.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Browser Bookmark/Browser.md"
+                "file": "小记.md"
               }
             }
           }
@@ -148,8 +148,10 @@
   },
   "active": "b128d53a81b0771a",
   "lastOpenFiles": [
-    "Browser Bookmark/gsap.md",
+    "TODO.md",
+    "README.md",
     "Browser Bookmark/Browser.md",
+    "Browser Bookmark/gsap.md",
     "Front-end/BOM/BOM 新属性.md",
     "Front-end/BOM/URL.md",
     "NPM/packages/rimraf.md",
@@ -176,8 +178,6 @@
     "Node/nvm.md",
     "论文📑/页面流程图.canvas",
     "Node",
-    "论文📑/论文.md",
-    "论文📑/互帮互助平台.md",
     "Browser Bookmark",
     "论文📑",
     "Obsidian",
