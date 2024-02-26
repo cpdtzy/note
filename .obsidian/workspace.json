@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "9b541b77bb1e023b",
+        "id": "be731a302bc658b0",
         "type": "tabs",
         "children": [
           {
-            "id": "67eff3ce202ca4cb",
+            "id": "b128d53a81b0771a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "源码分析/vite.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c20589e17efd2a56",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Resolved/Webstorm/Cannot Uninstall old IDE after installing a new one. Uninstall hasn't detected folder of ....md",
+                "file": "个人简历.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -61,8 +48,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#sd",
-                "matchingCase": false,
+                "query": "",
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Resolved/Webstorm/Cannot Uninstall old IDE after installing a new one. Uninstall hasn't detected folder of ....md",
+                "file": "个人简历.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Resolved/Webstorm/Cannot Uninstall old IDE after installing a new one. Uninstall hasn't detected folder of ....md",
+                "file": "个人简历.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Resolved/Webstorm/Cannot Uninstall old IDE after installing a new one. Uninstall hasn't detected folder of ....md"
+                "file": "个人简历.md"
               }
             }
           }
@@ -151,52 +138,53 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
     }
   },
-  "active": "c20589e17efd2a56",
+  "active": "b128d53a81b0771a",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
-    "Resolved/Webstorm/Cannot Uninstall old IDE after installing a new one. Uninstall hasn't detected folder of ....md",
+    "Front-end/BOM/ResizeObserver.md",
     "源码分析/vite.md",
-    "Obsidian/Theme.md",
-    "Obsidian/Installed plugins.md",
-    "Obsidian/Development Plugin.md",
-    "TODO.md",
     "源码分析",
-    "Rollup.md",
-    "Resolved/pnpm  ERR_PNPM_UNEXPECTED_STORE.md",
+    "Front-end/BOM/BOM 新属性.md",
+    "小记.md",
+    "TODO.md",
+    "README.md",
+    "Browser Bookmark/Browser.md",
+    "Browser Bookmark/gsap.md",
+    "Front-end/BOM/URL.md",
     "NPM/packages/rimraf.md",
     "NPM/packages/Rollup.md",
-    "Node/nvm.md",
-    "NPM/packages/handlebars.md",
-    "pnpm  ERR_PNPM_UNEXPECTED_STORE.md",
-    "Node/node 版本控制.md",
-    "Browser Bookmark/gsap.md",
-    "NPM/packages/prompt.md",
+    "个人简历.md",
+    "Resolved/pnpm  ERR_PNPM_UNEXPECTED_STORE.md",
+    "NPM/发布插件库.md",
+    "NPM/NPM 目录.md",
+    "NPM/弃用插件包.md",
     "NPM/packages/express.md",
+    "NPM/packages/handlebars.md",
+    "Node/node 版本控制.md",
+    "NPM/packages/prompt.md",
+    "Resolved/nodejs Koa 传输 formData 数据.md",
     "NPM/packages",
-    "Browser Bookmark/Browser.md",
-    "OSC/one 登录测试.md",
-    "README.md",
-    "OSC/nbcb-ui 重装情况.md",
-    "Front-end/ECMA/Generator 生成器.md",
-    "OSC",
-    "论文📑/页面流程图.canvas",
-    "论文📑/论文.md",
-    "论文📑/任务书.md",
-    "论文📑/互帮互助平台.md",
-    "论文📑",
+    "Tools/runkit.md",
+    "Front-end/CSS/Position sticky problem.md",
+    "Front-end/CSS/font-palette.md",
+    "Front-end/CSS/@font-palette-values.md",
+    "Front-end/WebAssembly.md",
     "Tools",
+    "论文📑/页面流程图.canvas",
     "Node",
-    "Docket",
     "Browser Bookmark",
-    "docker",
-    "Front-end/CSS"
+    "论文📑",
+    "Obsidian",
+    "NPM",
+    "Docket",
+    "Browser Bookmark/未命名.canvas",
+    "Brawser Bookmark/未命名"
   ]
 }
