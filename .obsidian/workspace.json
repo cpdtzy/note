@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "个人简历.md",
+                "file": "Node/node 版本控制.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "个人简历.md",
+                "file": "Node/node 版本控制.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "个人简历.md",
+                "file": "Node/node 版本控制.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "个人简历.md"
+                "file": "Node/node 版本控制.md"
               }
             }
           }
@@ -148,11 +148,14 @@
   },
   "active": "b128d53a81b0771a",
   "lastOpenFiles": [
+    "Node/nvm.md",
+    "Resolved/pnpm  ERR_PNPM_UNEXPECTED_STORE.md",
+    "小记.md",
+    "个人简历.md",
     "Front-end/BOM/ResizeObserver.md",
     "源码分析/vite.md",
     "源码分析",
     "Front-end/BOM/BOM 新属性.md",
-    "小记.md",
     "TODO.md",
     "README.md",
     "Browser Bookmark/Browser.md",
@@ -160,8 +163,6 @@
     "Front-end/BOM/URL.md",
     "NPM/packages/rimraf.md",
     "NPM/packages/Rollup.md",
-    "个人简历.md",
-    "Resolved/pnpm  ERR_PNPM_UNEXPECTED_STORE.md",
     "NPM/发布插件库.md",
     "NPM/NPM 目录.md",
     "NPM/弃用插件包.md",
@@ -175,7 +176,6 @@
     "Front-end/CSS/Position sticky problem.md",
     "Front-end/CSS/font-palette.md",
     "Front-end/CSS/@font-palette-values.md",
-    "Front-end/WebAssembly.md",
     "Tools",
     "论文📑/页面流程图.canvas",
     "Node",
