@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Problem/Browser Event path 问题.md",
+                "file": "Front-end/HTML/input type file.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Problem/Browser Event path 问题.md",
+                "file": "Front-end/HTML/input type file.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Problem/Browser Event path 问题.md",
+                "file": "Front-end/HTML/input type file.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Problem/Browser Event path 问题.md"
+                "file": "Front-end/HTML/input type file.md"
               }
             }
           }
@@ -148,9 +148,11 @@
   },
   "active": "b128d53a81b0771a",
   "lastOpenFiles": [
+    "Problem/Browser Event path 问题.md",
+    "Front-end/HTML/input type file.md",
+    "Front-end/HTML",
     "Resolved/pnpm  ERR_PNPM_UNEXPECTED_STORE.md",
     "Resolved/nodejs Koa 传输 formData 数据.md",
-    "Problem/Browser Event path 问题.md",
     "Browser Bookmark/Browser.md",
     "Problem",
     "Docket/Dockerfile.md",
@@ -176,7 +178,6 @@
     "NPM/packages/prompt.md",
     "NPM/packages",
     "Tools/runkit.md",
-    "Front-end/CSS/Position sticky problem.md",
     "Tools",
     "论文📑/页面流程图.canvas",
     "Node",
@@ -184,7 +185,6 @@
     "论文📑",
     "Obsidian",
     "NPM",
-    "Docket",
     "Browser Bookmark/未命名.canvas"
   ]
 }
