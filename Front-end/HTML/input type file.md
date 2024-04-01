@@ -10,3 +10,4 @@ dir.addEventListener('change', (e) => {
   console.log(e.target.files); // 对应的文件格式
 })
 ```
+
