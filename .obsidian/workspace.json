@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "00a04bd93cd93450",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.11"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -146,7 +157,7 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "b128d53a81b0771a",
+  "active": "00a04bd93cd93450",
   "lastOpenFiles": [
     "Problem/Browser Event path 问题.md",
     "Front-end/HTML/input type file.md",
