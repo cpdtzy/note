@@ -23,9 +23,11 @@
             "id": "00a04bd93cd93450",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.5.11"
+                "file": "Resolved/Linkedin link preview cache.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -96,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Front-end/HTML/input type file.md",
+                "file": "Resolved/Linkedin link preview cache.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Front-end/HTML/input type file.md",
+                "file": "Resolved/Linkedin link preview cache.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Front-end/HTML/input type file.md"
+                "file": "Resolved/Linkedin link preview cache.md"
               }
             }
           }
@@ -159,11 +161,12 @@
   },
   "active": "00a04bd93cd93450",
   "lastOpenFiles": [
-    "Problem/Browser Event path 问题.md",
+    "Resolved/Browser Event path 问题.md",
+    "Resolved/Linkedin link preview cache.md",
+    "Resolved/nodejs Koa 传输 formData 数据.md",
     "Front-end/HTML/input type file.md",
     "Front-end/HTML",
     "Resolved/pnpm  ERR_PNPM_UNEXPECTED_STORE.md",
-    "Resolved/nodejs Koa 传输 formData 数据.md",
     "Browser Bookmark/Browser.md",
     "Problem",
     "Docket/Dockerfile.md",
@@ -188,7 +191,6 @@
     "NPM/packages/handlebars.md",
     "NPM/packages/prompt.md",
     "NPM/packages",
-    "Tools/runkit.md",
     "Tools",
     "论文📑/页面流程图.canvas",
     "Node",
