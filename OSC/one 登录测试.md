@@ -1,4 +1,6 @@
-> osc 开通 gitee-one 空间权限，通过 gitee-one 获取代码仓库的代码，根据 package.json 进行 npm install 依赖
+#osc 
+
+> 开通 gitee-one 空间权限，通过 gitee-one 获取代码仓库的代码，根据 package.json 进行 npm install 依赖
 
 1. 通过企业邮箱进行 VPN 账号申请
 2. 获取 .OPEN 文件以便 VPN 跨域
