@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OSC/one 登录测试.md",
+                "file": "Front-end/BOM/Event 阻止情况.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "OSC/one 登录测试.md",
+                "file": "Front-end/BOM/Event 阻止情况.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "OSC/one 登录测试.md",
+                "file": "Front-end/BOM/Event 阻止情况.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "OSC/one 登录测试.md"
+                "file": "Front-end/BOM/Event 阻止情况.md"
               }
             }
           }
@@ -148,8 +148,9 @@
   },
   "active": "e669e29b78b5a888",
   "lastOpenFiles": [
-    "OSC/nbcb-ui 重装情况.md",
     "OSC/one 登录测试.md",
+    "Front-end/BOM/Event 阻止情况.md",
+    "OSC/nbcb-ui 重装情况.md",
     "Resolved/Linkedin link preview cache.md",
     "Resolved/nodejs Koa 传输 formData 数据.md",
     "Resolved/pnpm  ERR_PNPM_UNEXPECTED_STORE.md",
@@ -176,7 +177,6 @@
     "NPM/发布插件库.md",
     "NPM/NPM 目录.md",
     "NPM/弃用插件包.md",
-    "NPM/packages/express.md",
     "NPM/packages",
     "Tools",
     "论文📑/页面流程图.canvas",
