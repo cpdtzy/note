@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "4b392fba9f78d87d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "通过 docker 搭建 workpress.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mysql/mysql.md",
+                "file": "通过 docker 搭建 workpress.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mysql/mysql.md",
+                "file": "通过 docker 搭建 workpress.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mysql/mysql.md"
+                "file": "通过 docker 搭建 workpress.md"
               }
             }
           }
@@ -159,10 +171,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c20589e17efd2a56",
+  "active": "4b392fba9f78d87d",
   "lastOpenFiles": [
-    "Resolved/Webstorm/Cannot Uninstall old IDE after installing a new one. Uninstall hasn't detected folder of ....md",
     "Mysql/mysql.md",
+    "通过 docker 搭建 workpress.md",
+    "Resolved/Webstorm/Cannot Uninstall old IDE after installing a new one. Uninstall hasn't detected folder of ....md",
     "Mysql",
     "Resolved/Linkedin link preview cache.md",
     "Resolved/Browser Event path 问题.md",
@@ -190,7 +203,6 @@
     "NPM/packages",
     "Browser Bookmark/Browser.md",
     "OSC/one 登录测试.md",
-    "README.md",
     "OSC",
     "论文📑/页面流程图.canvas",
     "论文📑",
