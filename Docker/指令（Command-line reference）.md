@@ -36,3 +36,10 @@ docker stop [container]
 docker commit [OPTIONS] CONTAINER [REPOSITORY[:TAG]]
 ```
 
+## 查看 container IP
+
+```
+docker inspect --format '{{ .NetworkSettings.IPAddress }}' [container-name]
+```
+
+`[container-name]` - 容器名称
