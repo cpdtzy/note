@@ -47,9 +47,11 @@
             "id": "68382ca454ea3b4a",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.5.12"
+                "file": "Mysql/mysql.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -183,8 +185,11 @@
   },
   "active": "68382ca454ea3b4a",
   "lastOpenFiles": [
-    "通过 docker 搭建 workpress.md",
+    "Docker/指令（Command-line reference）.md",
+    "Docker/docker nginx.md",
+    "Docker/Dockerfile.md",
     "Mysql/mysql.md",
+    "通过 docker 搭建 workpress.md",
     "Resolved/Webstorm/Cannot Uninstall old IDE after installing a new one. Uninstall hasn't detected folder of ....md",
     "Mysql",
     "Resolved/Linkedin link preview cache.md",
@@ -209,16 +214,13 @@
     "Node/node 版本控制.md",
     "Browser Bookmark/gsap.md",
     "NPM/packages/prompt.md",
-    "NPM/packages/express.md",
     "NPM/packages",
-    "Browser Bookmark/Browser.md",
-    "OSC/one 登录测试.md",
     "OSC",
     "论文📑/页面流程图.canvas",
     "论文📑",
     "Tools",
     "Node",
-    "Docket",
+    "Docker",
     "Browser Bookmark"
   ]
 }
