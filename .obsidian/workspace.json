@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mysql/mysql.md",
+                "file": "通过 docker 搭建 wordpress.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mysql/mysql.md",
+                "file": "通过 docker 搭建 wordpress.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mysql/mysql.md",
+                "file": "通过 docker 搭建 wordpress.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mysql/mysql.md"
+                "file": "通过 docker 搭建 wordpress.md"
               }
             }
           }
@@ -185,11 +185,11 @@
   },
   "active": "68382ca454ea3b4a",
   "lastOpenFiles": [
+    "Mysql/mysql.md",
     "Docker/指令（Command-line reference）.md",
     "Docker/docker nginx.md",
     "Docker/Dockerfile.md",
-    "Mysql/mysql.md",
-    "通过 docker 搭建 workpress.md",
+    "通过 docker 搭建 wordpress.md",
     "Resolved/Webstorm/Cannot Uninstall old IDE after installing a new one. Uninstall hasn't detected folder of ....md",
     "Mysql",
     "Resolved/Linkedin link preview cache.md",
