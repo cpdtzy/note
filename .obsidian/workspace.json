@@ -8,55 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "67eff3ce202ca4cb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "源码分析/vite.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c20589e17efd2a56",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Mysql/mysql.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4b392fba9f78d87d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Mysql/mysql.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "68382ca454ea3b4a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "通过 docker 搭建 wordpress.md",
+                "file": "TODO.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -122,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "通过 docker 搭建 wordpress.md",
+                "file": "TODO.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "通过 docker 搭建 wordpress.md",
+                "file": "TODO.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "通过 docker 搭建 wordpress.md"
+                "file": "TODO.md"
               }
             }
           }
@@ -186,10 +149,10 @@
   "active": "68382ca454ea3b4a",
   "lastOpenFiles": [
     "Mysql/mysql.md",
+    "通过 docker 搭建 wordpress.md",
     "Docker/指令（Command-line reference）.md",
     "Docker/docker nginx.md",
     "Docker/Dockerfile.md",
-    "通过 docker 搭建 wordpress.md",
     "Resolved/Webstorm/Cannot Uninstall old IDE after installing a new one. Uninstall hasn't detected folder of ....md",
     "Mysql",
     "Resolved/Linkedin link preview cache.md",
