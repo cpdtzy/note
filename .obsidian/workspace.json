@@ -23,9 +23,11 @@
             "id": "a62d89dc3701890e",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.5.12"
+                "file": "Front-end/BOM/Event 阻止情况.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -76,7 +78,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -157,7 +160,7 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "a62d89dc3701890e",
+  "active": "85bbb550a8d6e308",
   "lastOpenFiles": [
     "OSC/one 登录测试.md",
     "Front-end/BOM/Event 阻止情况.md",
