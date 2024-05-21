@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "9b541b77bb1e023b",
+        "id": "a79cb79d44e232ec",
         "type": "tabs",
         "children": [
           {
-            "id": "68382ca454ea3b4a",
+            "id": "e669e29b78b5a888",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TODO.md",
+                "file": "Front-end/BOM/Event 阻止情况.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,8 +61,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#sd",
-                "matchingCase": false,
+                "query": "",
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TODO.md",
+                "file": "Front-end/BOM/Event 阻止情况.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TODO.md",
+                "file": "Front-end/BOM/Event 阻止情况.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TODO.md"
+                "file": "Front-end/BOM/Event 阻止情况.md"
               }
             }
           }
@@ -152,52 +152,53 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
     }
   },
   "active": "85bbb550a8d6e308",
   "lastOpenFiles": [
-    "Mysql/mysql.md",
     "通过 docker 搭建 wordpress.md",
+    "Mysql/mysql.md",
+    "Mysql",
     "Docker/指令（Command-line reference）.md",
     "Docker/docker nginx.md",
     "Docker/Dockerfile.md",
-    "Resolved/Webstorm/Cannot Uninstall old IDE after installing a new one. Uninstall hasn't detected folder of ....md",
-    "Mysql",
+    "Docker",
+    "4913",
+    "OSC/one 登录测试.md",
+    "Front-end/BOM/Event 阻止情况.md",
+    "OSC/nbcb-ui 重装情况.md",
     "Resolved/Linkedin link preview cache.md",
+    "Resolved/nodejs Koa 传输 formData 数据.md",
+    "Resolved/pnpm  ERR_PNPM_UNEXPECTED_STORE.md",
     "Resolved/Browser Event path 问题.md",
     "Front-end/HTML/input type file.md",
     "Front-end/HTML",
-    "Front-end/BOM/Event 阻止情况.md",
-    "conflict-files-obsidian-git.md",
-    "源码分析/vite.md",
-    "Obsidian/Theme.md",
-    "Obsidian/Installed plugins.md",
-    "Obsidian/Development Plugin.md",
-    "TODO.md",
-    "源码分析",
-    "Rollup.md",
-    "Resolved/pnpm  ERR_PNPM_UNEXPECTED_STORE.md",
-    "NPM/packages/rimraf.md",
-    "NPM/packages/Rollup.md",
-    "Node/nvm.md",
-    "NPM/packages/handlebars.md",
-    "pnpm  ERR_PNPM_UNEXPECTED_STORE.md",
+    "Browser Bookmark/Browser.md",
+    "Problem",
+    "Docket/Dockerfile.md",
     "Node/node 版本控制.md",
+    "Node/nvm.md",
+    "小记.md",
+    "个人简历.md",
+    "Front-end/BOM/ResizeObserver.md",
+    "源码分析/vite.md",
+    "源码分析",
+    "Front-end/BOM/BOM 新属性.md",
+    "TODO.md",
+    "README.md",
     "Browser Bookmark/gsap.md",
-    "NPM/packages/prompt.md",
+    "Front-end/BOM/URL.md",
     "NPM/packages",
-    "OSC",
-    "论文📑/页面流程图.canvas",
-    "论文📑",
     "Tools",
+    "论文📑/页面流程图.canvas",
     "Node",
-    "Docker",
-    "Browser Bookmark"
+    "Browser Bookmark",
+    "Browser Bookmark/未命名.canvas"
   ]
 }
