@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "通过 docker 搭建 wordpress.md",
+                "file": "TODO.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "docker",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,8 +78,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -99,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "通过 docker 搭建 wordpress.md",
+                "file": "TODO.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "通过 docker 搭建 wordpress.md",
+                "file": "TODO.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "通过 docker 搭建 wordpress.md"
+                "file": "TODO.md"
               }
             }
           }
@@ -162,9 +161,11 @@
   },
   "active": "a62d89dc3701890e",
   "lastOpenFiles": [
+    "源码分析题.md",
+    "README.md",
+    "通过 docker 搭建 wordpress.md",
     "Front-end/BOM/Event 阻止情况.md",
     "4913",
-    "通过 docker 搭建 wordpress.md",
     "Mysql/mysql.md",
     "Mysql",
     "Docker/指令（Command-line reference）.md",
@@ -191,7 +192,6 @@
     "源码分析",
     "Front-end/BOM/BOM 新属性.md",
     "TODO.md",
-    "README.md",
     "Browser Bookmark/gsap.md",
     "NPM/packages",
     "Tools",
