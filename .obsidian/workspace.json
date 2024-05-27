@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Docker/指令（Command-line reference）.md",
+                "file": "Docker/docker 拉取镜像时报错ERROR.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Docker/指令（Command-line reference）.md",
+                "file": "Docker/docker 拉取镜像时报错ERROR.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Docker/指令（Command-line reference）.md",
+                "file": "Docker/docker 拉取镜像时报错ERROR.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Docker/指令（Command-line reference）.md"
+                "file": "Docker/docker 拉取镜像时报错ERROR.md"
               }
             }
           }
@@ -161,8 +161,9 @@
   },
   "active": "a62d89dc3701890e",
   "lastOpenFiles": [
-    "Docker/docker nginx.md",
     "Docker/指令（Command-line reference）.md",
+    "Docker/docker 拉取镜像时报错ERROR.md",
+    "Docker/docker nginx.md",
     "小记.md",
     "TODO.md",
     "源码分析题.md",
@@ -192,7 +193,6 @@
     "源码分析/vite.md",
     "源码分析",
     "Front-end/BOM/BOM 新属性.md",
-    "Browser Bookmark/gsap.md",
     "NPM/packages",
     "Tools",
     "论文📑/页面流程图.canvas",
