@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Front-end/BOM/Event 阻止情况.md",
+                "file": "Front-end/BOM/ShadowRoot.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Front-end/BOM/Event 阻止情况.md",
+                "file": "Front-end/BOM/ShadowRoot.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Front-end/BOM/Event 阻止情况.md",
+                "file": "Front-end/BOM/ShadowRoot.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Front-end/BOM/Event 阻止情况.md"
+                "file": "Front-end/BOM/ShadowRoot.md"
               }
             }
           }
@@ -161,6 +161,9 @@
   },
   "active": "a62d89dc3701890e",
   "lastOpenFiles": [
+    "Front-end/BOM/Event 阻止情况.md",
+    "Front-end/BOM/ShadowRoot.md",
+    "Front-end/CSS/Animation.md",
     "Front-end/BOM/BOM 新属性.md",
     "Docker/Dockerfile.md",
     "Docker/指令（Command-line reference）.md",
@@ -171,7 +174,6 @@
     "源码分析题.md",
     "README.md",
     "通过 docker 搭建 wordpress.md",
-    "Front-end/BOM/Event 阻止情况.md",
     "4913",
     "Mysql/mysql.md",
     "Mysql",
@@ -190,8 +192,6 @@
     "Node/node 版本控制.md",
     "Node/nvm.md",
     "个人简历.md",
-    "Front-end/BOM/ResizeObserver.md",
-    "源码分析/vite.md",
     "源码分析",
     "NPM/packages",
     "Tools",
