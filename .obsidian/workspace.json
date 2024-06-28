@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Docker/docker 拉取镜像时报错ERROR.md",
+                "file": "Front-end/BOM/Event 阻止情况.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Docker/docker 拉取镜像时报错ERROR.md",
+                "file": "Front-end/BOM/Event 阻止情况.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Docker/docker 拉取镜像时报错ERROR.md",
+                "file": "Front-end/BOM/Event 阻止情况.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Docker/docker 拉取镜像时报错ERROR.md"
+                "file": "Front-end/BOM/Event 阻止情况.md"
               }
             }
           }
@@ -161,9 +161,11 @@
   },
   "active": "a62d89dc3701890e",
   "lastOpenFiles": [
+    "Front-end/BOM/BOM 新属性.md",
+    "Docker/Dockerfile.md",
     "Docker/指令（Command-line reference）.md",
-    "Docker/docker 拉取镜像时报错ERROR.md",
     "Docker/docker nginx.md",
+    "Docker/docker 拉取镜像时报错ERROR.md",
     "小记.md",
     "TODO.md",
     "源码分析题.md",
@@ -173,7 +175,6 @@
     "4913",
     "Mysql/mysql.md",
     "Mysql",
-    "Docker/Dockerfile.md",
     "Docker",
     "OSC/one 登录测试.md",
     "OSC/nbcb-ui 重装情况.md",
@@ -192,7 +193,6 @@
     "Front-end/BOM/ResizeObserver.md",
     "源码分析/vite.md",
     "源码分析",
-    "Front-end/BOM/BOM 新属性.md",
     "NPM/packages",
     "Tools",
     "论文📑/页面流程图.canvas",
