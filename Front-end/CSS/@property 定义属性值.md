@@ -20,3 +20,19 @@
 
 ### `initial-value` 初始内容
 
+初始内容为 `*` 时，表示任何值相等于非必填
+
+> **以上属性均为 必填属性，如果有属性没有，那么整个 @property 将失效**
+
+## JS 语法
+
+```js
+window.CSS.registerProperty({
+  name: "--item-color",
+  syntax: "<color>",
+  inherits: false,
+  initialValue: "aqua",
+});
+```
+
+使用 js 注册后，也同样可以直接在 css 中使用。
