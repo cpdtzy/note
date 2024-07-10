@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Front-end/BOM/ShadowRoot.md",
+                "file": "Front-end/CSS/@property 定义属性值.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Front-end/BOM/ShadowRoot.md",
+                "file": "Front-end/CSS/@property 定义属性值.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Front-end/BOM/ShadowRoot.md",
+                "file": "Front-end/CSS/@property 定义属性值.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Front-end/BOM/ShadowRoot.md"
+                "file": "Front-end/CSS/@property 定义属性值.md"
               }
             }
           }
@@ -161,8 +161,9 @@
   },
   "active": "a62d89dc3701890e",
   "lastOpenFiles": [
-    "Front-end/BOM/Event 阻止情况.md",
     "Front-end/BOM/ShadowRoot.md",
+    "Front-end/CSS/@property 定义属性值.md",
+    "Front-end/BOM/Event 阻止情况.md",
     "Front-end/CSS/Animation.md",
     "Front-end/BOM/BOM 新属性.md",
     "Docker/Dockerfile.md",
@@ -191,7 +192,6 @@
     "Docket/Dockerfile.md",
     "Node/node 版本控制.md",
     "Node/nvm.md",
-    "个人简历.md",
     "源码分析",
     "NPM/packages",
     "Tools",
