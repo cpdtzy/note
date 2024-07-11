@@ -5,6 +5,9 @@
 
 `--detach` or `-d` 分离模式
 `--publish` or `-p` 端口映射 `8080:80` 8080 是外部端口 80 为 container 端口
+`-i` 
+`-t`
+`-v` 
 
 ```shell
 docker run -d -p 8080:80 [IMAGE]
