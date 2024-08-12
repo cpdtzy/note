@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Front-end/ECMA/Array ES14(2023).md",
+                "file": "Front-end/BOM/Crypto.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Front-end/ECMA/Array ES14(2023).md",
+                "file": "Front-end/BOM/Crypto.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Front-end/ECMA/Array ES14(2023).md",
+                "file": "Front-end/BOM/Crypto.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Front-end/ECMA/Array ES14(2023).md"
+                "file": "Front-end/BOM/Crypto.md"
               }
             }
           }
@@ -161,8 +161,9 @@
   },
   "active": "a62d89dc3701890e",
   "lastOpenFiles": [
-    "Front-end/ECMA/Generator 生成器.md",
     "Front-end/ECMA/Array ES14(2023).md",
+    "Front-end/BOM/Crypto.md",
+    "Front-end/ECMA/Generator 生成器.md",
     "Front-end/ECMA/简短的函数(箭头函数).md",
     "Front-end/ECMA/es6 字符串模板.md",
     "Docker/指令（Command-line reference）.md",
@@ -189,7 +190,6 @@
     "OSC/one 登录测试.md",
     "OSC/nbcb-ui 重装情况.md",
     "Resolved/Linkedin link preview cache.md",
-    "Resolved/nodejs Koa 传输 formData 数据.md",
     "Front-end/HTML",
     "Problem",
     "源码分析",
