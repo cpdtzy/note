@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Docker/指令（Command-line reference）.md",
+                "file": "Front-end/ECMA/Array ES14(2023).md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Docker/指令（Command-line reference）.md",
+                "file": "Front-end/ECMA/Array ES14(2023).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Docker/指令（Command-line reference）.md",
+                "file": "Front-end/ECMA/Array ES14(2023).md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Docker/指令（Command-line reference）.md"
+                "file": "Front-end/ECMA/Array ES14(2023).md"
               }
             }
           }
@@ -161,8 +161,12 @@
   },
   "active": "a62d89dc3701890e",
   "lastOpenFiles": [
-    "Docker/常规操作.md",
+    "Front-end/ECMA/Generator 生成器.md",
+    "Front-end/ECMA/Array ES14(2023).md",
+    "Front-end/ECMA/简短的函数(箭头函数).md",
+    "Front-end/ECMA/es6 字符串模板.md",
     "Docker/指令（Command-line reference）.md",
+    "Docker/常规操作.md",
     "`docker run`.md",
     "Docker/Dockerfile.md",
     "Docker/docker 拉取镜像时报错ERROR.md",
@@ -186,11 +190,7 @@
     "OSC/nbcb-ui 重装情况.md",
     "Resolved/Linkedin link preview cache.md",
     "Resolved/nodejs Koa 传输 formData 数据.md",
-    "Resolved/pnpm  ERR_PNPM_UNEXPECTED_STORE.md",
-    "Resolved/Browser Event path 问题.md",
-    "Front-end/HTML/input type file.md",
     "Front-end/HTML",
-    "Browser Bookmark/Browser.md",
     "Problem",
     "源码分析",
     "NPM/packages",
