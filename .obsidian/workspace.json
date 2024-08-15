@@ -35,9 +35,11 @@
             "id": "230e073ef47c1bf8",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.6.7"
+                "file": "Front-end/CSS/font-size-adjust.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -108,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Front-end/BOM/Crypto.md",
+                "file": "Front-end/CSS/font-size-adjust.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Front-end/BOM/Crypto.md",
+                "file": "Front-end/CSS/font-size-adjust.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Front-end/BOM/Crypto.md"
+                "file": "Front-end/CSS/font-size-adjust.md"
               }
             }
           }
@@ -171,6 +173,7 @@
   },
   "active": "230e073ef47c1bf8",
   "lastOpenFiles": [
+    "Front-end/CSS/font-size-adjust.md",
     "Front-end/ECMA/Array ES14(2023).md",
     "Front-end/BOM/Crypto.md",
     "Front-end/ECMA/Generator 生成器.md",
@@ -199,7 +202,6 @@
     "Docker",
     "OSC/one 登录测试.md",
     "OSC/nbcb-ui 重装情况.md",
-    "Resolved/Linkedin link preview cache.md",
     "Front-end/HTML",
     "Problem",
     "源码分析",
