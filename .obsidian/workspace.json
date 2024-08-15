@@ -30,9 +30,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "230e073ef47c1bf8",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.7"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -159,7 +169,7 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "a62d89dc3701890e",
+  "active": "230e073ef47c1bf8",
   "lastOpenFiles": [
     "Front-end/ECMA/Array ES14(2023).md",
     "Front-end/BOM/Crypto.md",
