@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Front-end/CSS/font-size-adjust.md",
+                "file": "Front-end/ECMA/es6 字符串模板.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Front-end/CSS/font-size-adjust.md",
+                "file": "Front-end/ECMA/es6 字符串模板.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Front-end/CSS/font-size-adjust.md",
+                "file": "Front-end/ECMA/es6 字符串模板.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Front-end/CSS/font-size-adjust.md"
+                "file": "Front-end/ECMA/es6 字符串模板.md"
               }
             }
           }
