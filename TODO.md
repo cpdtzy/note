@@ -41,3 +41,5 @@ umd ?
 
 [Next](https://www.nextjs.cn/docs/basic-features/data-fetching) 搭配 wordpress [github](https://github.com/vercel/next.js/tree/canary/examples/cms-wordpress)
 
+[zustand](https://www.npmjs.com/package/zustand) 状态管理
+
