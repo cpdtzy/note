@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "a79cb79d44e232ec",
+        "id": "c50bde073f70b0c1",
         "type": "tabs",
         "children": [
           {
-            "id": "50c22c1b576de3ef",
+            "id": "4c7a345a7191eef9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Front-end/CSS/scroll-snap.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f24bc6ee27cc8352",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Front-end/CSS/scroll-snap.md",
+                "file": "TODO.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Front-end/CSS/scroll-snap.md",
+                "file": "TODO.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Front-end/CSS/scroll-snap.md",
+                "file": "TODO.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Front-end/CSS/scroll-snap.md"
+                "file": "TODO.md"
               }
             }
           }
@@ -159,10 +146,11 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "f24bc6ee27cc8352",
+  "active": "4c7a345a7191eef9",
   "lastOpenFiles": [
-    "Front-end/CSS/@font-palette-values.md",
     "Front-end/CSS/scroll-snap.md",
+    "Front-end/CSS/Position sticky problem.md",
+    "Front-end/CSS/@font-palette-values.md",
     "TODO.md",
     "README.md",
     "Front-end/AST.md",
@@ -186,7 +174,6 @@
     "Front-end/BOM/ShadowRoot.md",
     "Front-end/BOM/Event 阻止情况.md",
     "Front-end/BOM/BOM 新属性.md",
-    "小记.md",
     "4913",
     "Mysql",
     "Docker",
