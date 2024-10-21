@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TODO.md",
+                "file": "Front-end/CSS/scroll-snap.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f24bc6ee27cc8352",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Front-end/CSS/scroll-snap.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TODO.md",
+                "file": "Front-end/CSS/scroll-snap.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TODO.md",
+                "file": "Front-end/CSS/scroll-snap.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TODO.md"
+                "file": "Front-end/CSS/scroll-snap.md"
               }
             }
           }
@@ -146,10 +159,12 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "50c22c1b576de3ef",
+  "active": "f24bc6ee27cc8352",
   "lastOpenFiles": [
-    "README.md",
+    "Front-end/CSS/@font-palette-values.md",
+    "Front-end/CSS/scroll-snap.md",
     "TODO.md",
+    "README.md",
     "Front-end/AST.md",
     "Create-neat.md",
     "个人简历.md",
@@ -167,13 +182,11 @@
     "Docker/docker 拉取镜像时报错ERROR.md",
     "Docker/docker nginx.md",
     "Front-end/CSS/Animation.md",
-    "Front-end/CSS/@font-palette-values.md",
     "Front-end/CSS/@property 定义属性值.md",
     "Front-end/BOM/ShadowRoot.md",
     "Front-end/BOM/Event 阻止情况.md",
     "Front-end/BOM/BOM 新属性.md",
     "小记.md",
-    "通过 docker 搭建 wordpress.md",
     "4913",
     "Mysql",
     "Docker",
