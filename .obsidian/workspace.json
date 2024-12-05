@@ -8,33 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "4c7a345a7191eef9",
+            "id": "622e818e61a1e06e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Front-end/CSS/新属性.md",
+                "file": "Front-end/ECMA/新方法.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "新属性"
-            }
-          },
-          {
-            "id": "622e818e61a1e06e",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.7.7"
-              },
-              "icon": "lucide-file",
-              "title": "Release Notes 1.7.7"
+              "title": "新方法"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Front-end/CSS/新属性.md",
+                "file": "Front-end/ECMA/新方法.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "新属性 的反向链接列表"
+              "title": "新方法 的反向链接列表"
             }
           },
           {
@@ -125,12 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Front-end/CSS/新属性.md",
+                "file": "Front-end/ECMA/新方法.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "新属性 的出链列表"
+              "title": "新方法 的出链列表"
             }
           },
           {
@@ -152,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Front-end/CSS/新属性.md"
+                "file": "Front-end/ECMA/新方法.md"
               },
               "icon": "lucide-list",
-              "title": "新属性 的大纲"
+              "title": "新方法 的大纲"
             }
           }
         ]
@@ -177,8 +164,14 @@
   },
   "active": "622e818e61a1e06e",
   "lastOpenFiles": [
-    "Front-end/CSS/margin-block.md",
+    "Pasted image 20241205172927.png",
     "Front-end/CSS/新属性.md",
+    "Front-end/ECMA/新方法.md",
+    "Front-end/ECMA/Generator 生成器.md",
+    "Front-end/ECMA/es6 字符串模板.md",
+    "Front-end/ECMA/简短的函数(箭头函数).md",
+    "Front-end/ECMA/Array ES14(2023).md",
+    "Front-end/CSS/margin-block.md",
     "Front-end/CSS/aspect-ratio.md",
     "TODO.md",
     "Front-end/CSS/scroll-snap.md",
@@ -189,20 +182,14 @@
     "Create-neat.md",
     "个人简历.md",
     "源码分析题.md",
-    "Front-end/ECMA/es6 字符串模板.md",
     "Front-end/CSS/font-size-adjust.md",
-    "Front-end/ECMA/Array ES14(2023).md",
     "Front-end/BOM/Crypto.md",
-    "Front-end/ECMA/Generator 生成器.md",
-    "Front-end/ECMA/简短的函数(箭头函数).md",
     "Docker/指令（Command-line reference）.md",
     "Docker/常规操作.md",
     "`docker run`.md",
     "Docker/Dockerfile.md",
     "Docker/docker 拉取镜像时报错ERROR.md",
     "Docker/docker nginx.md",
-    "Front-end/CSS/Animation.md",
-    "Front-end/CSS/@property 定义属性值.md",
     "4913",
     "Mysql",
     "Docker",
