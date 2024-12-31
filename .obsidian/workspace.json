@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "小记.md",
+                "file": "Front-end/BOM/BOM 新属性.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "小记"
+              "title": "BOM 新属性"
             }
           }
         ]
@@ -162,12 +162,17 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "622e818e61a1e06e",
+  "active": "80ee5e88103990b2",
   "lastOpenFiles": [
+    "Front-end/BOM/ResizeObserver.md",
+    "Front-end/BOM/BOM 新属性.md",
+    "Front-end/BOM/postMessage.md",
+    "Front-end/BOM/window.postMessage.md",
+    "Front-end/BOM/ShadowRoot.md",
+    "小记.md",
     "README.md",
     "Tools/imagekit.md",
     "Tools/runkit.md",
-    "小记.md",
     "TODO.md",
     "Pasted image 20241205172927.png",
     "Front-end/ECMA/新方法.md",
@@ -187,11 +192,6 @@
     "个人简历.md",
     "源码分析题.md",
     "Front-end/CSS/font-size-adjust.md",
-    "Front-end/BOM/Crypto.md",
-    "Docker/指令（Command-line reference）.md",
-    "Docker/常规操作.md",
-    "`docker run`.md",
-    "Docker/Dockerfile.md",
     "4913",
     "Mysql",
     "Docker",
