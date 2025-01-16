@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TODO.md",
+                "file": "指令/ssh.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "TODO"
+              "title": "ssh"
             }
           }
         ]
@@ -162,8 +162,10 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "b012acd46c9e0ca1",
+  "active": "80ee5e88103990b2",
   "lastOpenFiles": [
+    "TODO.md",
+    "指令/ssh.md",
     "指令/Tar 压缩命令.md",
     "指令",
     "Front-end/BOM/BOM 新属性.md",
@@ -175,7 +177,6 @@
     "README.md",
     "Tools/imagekit.md",
     "Tools/runkit.md",
-    "TODO.md",
     "Pasted image 20241205172927.png",
     "Front-end/ECMA/新方法.md",
     "Pasted image 20241205173215.png",
