@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "指令/ssh.md",
-                "mode": "source",
+                "file": "指令/SSH.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ssh"
+              "title": "SSH"
             }
           }
         ]
@@ -162,10 +162,10 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "80ee5e88103990b2",
+  "active": "b012acd46c9e0ca1",
   "lastOpenFiles": [
     "TODO.md",
-    "指令/ssh.md",
+    "指令/SSH.md",
     "指令/Tar 压缩命令.md",
     "指令",
     "Front-end/BOM/BOM 新属性.md",
