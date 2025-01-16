@@ -13,6 +13,20 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "Obsidian/Development Plugin.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Development Plugin"
+            }
+          },
+          {
+            "id": "842faf5dee2a870d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "指令/SSH.md",
                 "mode": "source",
                 "source": false
@@ -93,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "指令/SSH.md",
+                "file": "Obsidian/Development Plugin.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +117,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "SSH 的反向链接列表"
+              "title": "Development Plugin 的反向链接列表"
             }
           },
           {
@@ -112,12 +126,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "指令/SSH.md",
+                "file": "Obsidian/Development Plugin.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "SSH 的出链列表"
+              "title": "Development Plugin 的出链列表"
             }
           },
           {
@@ -160,13 +174,18 @@
       "canvas:新建白板": false,
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
-      "command-palette:打开命令面板": false
+      "command-palette:打开命令面板": false,
+      "darlal-switcher-plus:Open in Headings Mode": false,
+      "darlal-switcher-plus:Open Symbols for the active editor": false
     }
   },
   "active": "b012acd46c9e0ca1",
   "lastOpenFiles": [
-    "TODO.md",
+    "Obsidian/Theme.md",
+    "Obsidian/Installed plugins.md",
     "指令/SSH.md",
+    "Obsidian/Development Plugin.md",
+    "TODO.md",
     "指令/Tar 压缩命令.md",
     "指令",
     "Front-end/BOM/BOM 新属性.md",
@@ -191,9 +210,6 @@
     "Front-end/CSS/scroll-snap.md",
     "Front-end/CSS/Position sticky problem.md",
     "Front-end/CSS/@font-palette-values.md",
-    "Front-end/AST.md",
-    "Create-neat.md",
-    "个人简历.md",
     "4913",
     "Mysql",
     "Docker",
