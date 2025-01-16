@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "fe08c6a63cc79e7e",
+        "id": "567ebdb6372278f8",
         "type": "tabs",
         "children": [
           {
-            "id": "d472fb29cee0f38b",
+            "id": "78906e48b4734242",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NPM/packages/Rollup.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Rollup"
+              "title": "新标签页"
             }
           }
         ]
@@ -52,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Javascript",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -73,12 +69,12 @@
               "title": "书签"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "a3412fa6f2694525",
@@ -94,17 +90,16 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NPM/packages/Rollup.md",
                 "collapseAll": true,
-                "extraContext": false,
+                "extraContext": true,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
-                "backlinkCollapsed": true,
-                "unlinkedCollapsed": true
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Rollup 的反向链接列表"
+              "title": "反向链接"
             }
           },
           {
@@ -113,12 +108,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NPM/packages/Rollup.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Rollup 的出链列表"
+              "title": "出链"
             }
           },
           {
@@ -146,12 +140,12 @@
               "title": "新方法 的大纲"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -165,9 +159,16 @@
       "darlal-switcher-plus:Open Symbols for the active editor": false
     }
   },
-  "active": "d472fb29cee0f38b",
+  "active": "78906e48b4734242",
   "lastOpenFiles": [
+    "Front-end/AST.md",
+    "Front-end/ECMA/Array ES14(2023).md",
+    "Front-end/ECMA/structuredClone 深拷贝.md",
+    "Front-end/ECMA/Generator 生成器.md",
+    "Front-end/ECMA/es6 字符串模板.md",
+    "Front-end/ECMA/简短的函数(箭头函数).md",
     "Pasted image 20241205172927.png",
+    "NPM/packages/Rollup.md",
     "Pasted image 20241205173215.png",
     "指令/SSH.md",
     "Obsidian/Help.md",
@@ -186,15 +187,9 @@
     "README.md",
     "Tools/imagekit.md",
     "Tools/runkit.md",
-    "Front-end/ECMA/新方法.md",
     "Front-end/CSS/新属性.md",
-    "Front-end/ECMA/Generator 生成器.md",
-    "Front-end/ECMA/es6 字符串模板.md",
-    "Front-end/ECMA/简短的函数(箭头函数).md",
-    "Front-end/ECMA/Array ES14(2023).md",
     "Front-end/CSS/margin-block.md",
     "Front-end/CSS/aspect-ratio.md",
-    "Front-end/CSS/scroll-snap.md",
     "4913",
     "Mysql",
     "Docker",
