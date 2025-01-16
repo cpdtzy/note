@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "指令/SSH.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
@@ -93,8 +93,8 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Front-end/ECMA/新方法.md",
-                "collapseAll": false,
+                "file": "指令/SSH.md",
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
@@ -103,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "新方法 的反向链接列表"
+              "title": "SSH 的反向链接列表"
             }
           },
           {
@@ -112,12 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Front-end/ECMA/新方法.md",
+                "file": "指令/SSH.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "新方法 的出链列表"
+              "title": "SSH 的出链列表"
             }
           },
           {
@@ -145,7 +145,8 @@
               "title": "新方法 的大纲"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
