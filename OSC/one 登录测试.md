@@ -17,11 +17,12 @@ one 通过 [流水线](https://osc.gitee.work/xly-poc/ONE/new-ipipe/pipelines/16
 
 ### 流水线配置
 
-| - 代码库 - | - 分支名 - |
-| gitee-one-front | 选对应分支 |
-| ad-adapter-front | `release/ningbo` |
-| `gitee-one-front-docker-build` | `master` |
-| `theme-fronted` | FB_ningbo_poc |
+| **代码库**                        | **分支名**          |
+| ------------------------------ | ---------------- |
+| `gitee-one-front`              | 选对应分支            |
+| `ad-adapter-front`             | `release/ningbo` |
+| `gitee-one-front-docker-build` | `master`         |
+| `theme-fronted`                | `FB_ningbo_poc`  |
 
 ## 本地调试
 
