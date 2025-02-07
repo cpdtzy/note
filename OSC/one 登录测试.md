@@ -14,3 +14,7 @@
 
 one 通过 [流水线](https://osc.gitee.work/xly-poc/ONE/new-ipipe/pipelines/16754/history/1940298/stages/2699474/tasks/58205189?versions=497-1747950%2C979-1818381%2C1808-1940298&groupId=&viewId=ALL&projectUuid=&tabs=outputs) 那进行打包打出来的产物还要通过 docker pull 下来并生成产物
 导出产物 `docker save --out-put xxx.target images`
+
+## 本地调试
+
+src/setupProxy.js 修改里面的 cookie 来进行代理操作
