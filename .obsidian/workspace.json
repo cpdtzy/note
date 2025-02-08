@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OSC/one 登录测试.md",
+                "file": "Docker/指令（Command-line reference）.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "one 登录测试"
+              "title": "指令（Command-line reference）"
             }
           }
         ]
