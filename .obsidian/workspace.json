@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "指令（Command-line reference）"
             }
+          },
+          {
+            "id": "ee82912da8ef2068",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.4"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -40,7 +53,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "文件列表"
@@ -164,7 +178,7 @@
       "darlal-switcher-plus:Open Symbols for the active editor": false
     }
   },
-  "active": "d9eb233bd817883c",
+  "active": "ee82912da8ef2068",
   "lastOpenFiles": [
     "Docker/常规操作.md",
     "Docker/指令（Command-line reference）.md",
