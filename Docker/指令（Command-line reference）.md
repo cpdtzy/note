@@ -1,5 +1,5 @@
 
-> [docker o命令行指令](https://docs.docker.com/engine/reference/commandline/rmi/)
+> [docker 命令行指令](https://docs.docker.com/engine/reference/commandline/rmi/)
 
 ## Docker run
 
