@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Docker/指令（Command-line reference）.md",
+                "file": "OSC/one 登录测试.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "指令（Command-line reference）"
+              "title": "one 登录测试"
             }
           },
           {
@@ -181,10 +181,11 @@
   },
   "active": "d9eb233bd817883c",
   "lastOpenFiles": [
-    "Front-end/BOM/BOM 新属性.md",
-    "Docker/指令（Command-line reference）.md",
-    "Docker/常规操作.md",
+    "OSC/nbcb-ui 重装情况.md",
     "OSC/one 登录测试.md",
+    "Docker/指令（Command-line reference）.md",
+    "Front-end/BOM/BOM 新属性.md",
+    "Docker/常规操作.md",
     "Docker/docker nginx.md",
     "Docker/docker 拉取镜像时报错ERROR.md",
     "Docker/Dockerfile.md",
@@ -210,7 +211,6 @@
     "Obsidian/Installed plugins.md",
     "指令/Tar 压缩命令.md",
     "指令",
-    "Front-end/BOM/ResizeObserver.md",
     "4913",
     "Mysql",
     "Docker",
