@@ -27,7 +27,7 @@
 - [ ] `zxcvbn` (一个受密码破解程序启发的密码强度估算器。它使用模式匹配和保守估计来识别和分析超过 40,000 个常见密码，并过滤掉常见的名字、姓氏、维基百科中的流行词和许多文化中的常见词，并识别常见模式，如日期、重复（例如“aaa”）、序列（例如“abcd”）、键盘粉碎（例如“qwertyuiop”）和 l33t speak — (https://github.com/zxcvbn-ts/zxcvbn)。)
 - [ ] `sunshine-track` (专为前端监控而设计，灵感来自 web-see。它报告用户行为、错误、页面过渡、白屏和性能指标。它适用于 Vue、React、Angular 等 — (https://github.com/brix/crypto-js)。)
 - [ ] `lottie` (Lottie 由 Airbnb 开发，是一个跨平台的动画库。设计人员可以在 After Effects 中创建动画并将其导出为 JSON 文件，这些文件可以无缝集成到移动应用程序和网站 — (https://github.com/airbnb/lottie-web)。)
-
+- [ ] `Puppeteer` 无头浏览器
 ## 了解
 
 - [ ] 了解一下 [AntV-G6](https://g6.antv.antgroup.com/)
